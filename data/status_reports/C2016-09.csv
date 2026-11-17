@@ -1,0 +1,91 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2016-09;Data Loss Prevention System;€;1;06/05/2013;(tanpa grup);19612,80;19612,80;19612,80;19612,80;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;1;06/05/2013;A. DLP Strategy;67010,40;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;1;06/05/2013;B. High level implementation plan;67010,40;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;1;06/05/2013;C. High Level Solution Design for Data Tagging and Information Classification;67010,40;1634,40;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;1;06/05/2013;D. Technical directives;67010,40;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;1;06/05/2013;E. DLP Control and Enforcement;81393,12;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;1;06/05/2013;F. Centralized Management and Monitoring Architecture for DLP;81720,00;53935,20;20702,40;22881,60;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;1;06/05/2013;G. High Level Solution for Network based DLP;36447,12;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;1;06/05/2013;H. Migration Strategy and a high level Implementation Package;97737,12;3268,80;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;1;06/05/2013;Milestones;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;2;03/06/2013;(tanpa grup);19612,80;19612,80;19612,80;19612,80;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;2;03/06/2013;A. DLP Strategy;67010,40;26150,40;44128,80;44128,80;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;2;03/06/2013;B. High level implementation plan;67010,40;35956,80;22881,60;29419,20;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;2;03/06/2013;C. High Level Solution Design for Data Tagging and Information Classification;67010,40;3268,80;26150,40;13075,20;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;2;03/06/2013;D. Technical directives;67010,40;0,00;7479,33;22881,60;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;2;03/06/2013;E. DLP Control and Enforcement;81393,12;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;2;03/06/2013;F. Centralized Management and Monitoring Architecture for DLP;81720,00;53935,20;23971,20;26150,40;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;2;03/06/2013;G. High Level Solution for Network based DLP;36447,12;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;2;03/06/2013;H. Migration Strategy and a high level Implementation Package;97737,12;9806,40;11059,66;171612,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;2;03/06/2013;Milestones;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;3;01/07/2013;(tanpa grup);19612,80;19612,80;19612,80;19612,80;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;3;01/07/2013;A. DLP Strategy;67010,40;58511,52;59928,00;60472,80;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;3;01/07/2013;B. High level implementation plan;67010,40;58511,52;57204,00;68644,80;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;3;01/07/2013;C. High Level Solution Design for Data Tagging and Information Classification;67010,40;3268,80;39225,60;29419,20;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;3;01/07/2013;D. Technical directives;67010,40;6537,60;30563,28;62515,80;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;3;01/07/2013;E. DLP Control and Enforcement;81393,12;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;3;01/07/2013;F. Centralized Management and Monitoring Architecture for DLP;81720,00;53935,20;34867,20;45763,20;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;3;01/07/2013;G. High Level Solution for Network based DLP;36447,12;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;3;01/07/2013;H. Migration Strategy and a high level Implementation Package;97737,12;9806,40;31669,43;441941,77;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;3;01/07/2013;Milestones;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;4;05/08/2013;(tanpa grup);19612,80;19612,80;19612,80;19612,80;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;4;05/08/2013;A. DLP Strategy;67010,40;67010,40;65294,28;68317,92;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;4;05/08/2013;B. High level implementation plan;67010,40;67010,40;67010,40;75877,02;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;4;05/08/2013;C. High Level Solution Design for Data Tagging and Information Classification;67010,40;35956,80;55751,20;84988,80;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;4;05/08/2013;D. Technical directives;67010,40;60472,80;54139,50;111752,10;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;4;05/08/2013;E. DLP Control and Enforcement;81393,12;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;4;05/08/2013;F. Centralized Management and Monitoring Architecture for DLP;81720,00;53935,20;43039,20;62107,20;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;4;05/08/2013;G. High Level Solution for Network based DLP;36447,12;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;4;05/08/2013;H. Migration Strategy and a high level Implementation Package;97737,12;9806,40;52954,56;693639,37;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;4;05/08/2013;Milestones;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;5;02/09/2013;(tanpa grup);19612,80;19612,80;19612,80;19612,80;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;5;02/09/2013;A. DLP Strategy;67010,40;67010,40;67010,40;68317,92;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;5;02/09/2013;B. High level implementation plan;67010,40;67010,40;67010,40;75877,02;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;5;02/09/2013;C. High Level Solution Design for Data Tagging and Information Classification;67010,40;64722,24;65376,00;94468,32;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;5;02/09/2013;D. Technical directives;67010,40;64722,24;65087,58;128545,56;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;5;02/09/2013;E. DLP Control and Enforcement;81393,12;45763,20;13075,20;16344,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;5;02/09/2013;F. Centralized Management and Monitoring Architecture for DLP;81720,00;53935,20;52300,80;81720,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;5;02/09/2013;G. High Level Solution for Network based DLP;36447,12;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;5;02/09/2013;H. Migration Strategy and a high level Implementation Package;97737,12;13075,20;57857,76;698542,57;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;5;02/09/2013;Milestones;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;6;07/10/2013;(tanpa grup);19612,80;19612,80;19612,80;19612,80;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;6;07/10/2013;A. DLP Strategy;67010,40;67010,40;67010,40;68317,92;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;6;07/10/2013;B. High level implementation plan;67010,40;67010,40;67010,40;75877,02;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;6;07/10/2013;C. High Level Solution Design for Data Tagging and Information Classification;67010,40;67010,40;67010,40;94795,20;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;6;07/10/2013;D. Technical directives;67010,40;67010,40;67010,40;131814,36;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;6;07/10/2013;E. DLP Control and Enforcement;81393,12;70279,20;50666,40;73548,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;6;07/10/2013;F. Centralized Management and Monitoring Architecture for DLP;81720,00;53935,20;64395,36;97083,36;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;6;07/10/2013;G. High Level Solution for Network based DLP;36447,12;0,00;23371,92;23371,92;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;6;07/10/2013;H. Migration Strategy and a high level Implementation Package;97737,12;68317,92;69952,32;704099,53;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;6;07/10/2013;Milestones;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;7;04/11/2013;(tanpa grup);19612,80;19612,80;19612,80;19612,80;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;7;04/11/2013;A. DLP Strategy;67010,40;67010,40;67010,40;68317,92;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;7;04/11/2013;B. High level implementation plan;67010,40;67010,40;67010,40;75877,02;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;7;04/11/2013;C. High Level Solution Design for Data Tagging and Information Classification;67010,40;67010,40;67010,40;94795,20;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;7;04/11/2013;D. Technical directives;67010,40;67010,40;67010,40;131814,36;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;7;04/11/2013;E. DLP Control and Enforcement;81393,12;81393,12;69189,60;150037,92;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;7;04/11/2013;F. Centralized Management and Monitoring Architecture for DLP;81720,00;70279,20;81720,00;114408,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;7;04/11/2013;G. High Level Solution for Network based DLP;36447,12;0,00;33505,20;33505,20;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;7;04/11/2013;H. Migration Strategy and a high level Implementation Package;97737,12;86296,32;77143,68;713579,05;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;7;04/11/2013;Milestones;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;8;02/12/2013;(tanpa grup);19612,80;19612,80;19612,80;19612,80;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;8;02/12/2013;A. DLP Strategy;67010,40;67010,40;67010,40;68317,92;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;8;02/12/2013;B. High level implementation plan;67010,40;67010,40;67010,40;75877,02;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;8;02/12/2013;C. High Level Solution Design for Data Tagging and Information Classification;67010,40;67010,40;67010,40;94795,20;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;8;02/12/2013;D. Technical directives;67010,40;67010,40;67010,40;131814,36;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;8;02/12/2013;E. DLP Control and Enforcement;81393,12;81393,12;81393,12;161805,60;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;8;02/12/2013;F. Centralized Management and Monitoring Architecture for DLP;81720,00;81720,00;81720,00;114408,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;8;02/12/2013;G. High Level Solution for Network based DLP;36447,12;7027,92;36447,12;36447,12;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;8;02/12/2013;H. Migration Strategy and a high level Implementation Package;97737,12;97737,12;97737,12;722077,93;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;8;02/12/2013;Milestones;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;9;06/01/2014;(tanpa grup);19612,80;19612,80;19612,80;19612,80;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;9;06/01/2014;A. DLP Strategy;67010,40;67010,40;67010,40;68317,92;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;9;06/01/2014;B. High level implementation plan;67010,40;67010,40;67010,40;75877,02;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;9;06/01/2014;C. High Level Solution Design for Data Tagging and Information Classification;67010,40;67010,40;67010,40;94795,20;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;9;06/01/2014;D. Technical directives;67010,40;67010,40;67010,40;131814,36;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;9;06/01/2014;E. DLP Control and Enforcement;81393,12;81393,12;81393,12;161805,60;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;9;06/01/2014;F. Centralized Management and Monitoring Architecture for DLP;81720,00;81720,00;81720,00;114408,00;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;9;06/01/2014;G. High Level Solution for Network based DLP;36447,12;35793,36;36447,12;36447,12;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;9;06/01/2014;H. Migration Strategy and a high level Implementation Package;97737,12;97737,12;97737,12;722077,93;0,00;0,00;0,00
+C2016-09;Data Loss Prevention System;€;9;06/01/2014;Milestones;0,00;0,00;0,00;0,00;0,00;0,00;0,00

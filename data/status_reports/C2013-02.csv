@@ -1,0 +1,273 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;(tanpa grup);318847,06;36513,27;23802,36;23802,36;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;SWA-lijn  (deelwerk 8);26829,92;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;anoxische reactor 2 (deelwerk 11);46602,41;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;beluchtingstank 1 (deelwerk 9);53672,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;3071,35;3100,00;2783,33;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;interventie AQUAFIN;5,00;1,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;69176,67;25500,00;25500,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;pompenkelder slibbehandeling (deelwerk 6);30360,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;slibbuffertanks (deelwerk 5);136276,76;57396,33;3336,00;3336,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;voeding indikker (deelwerk 7);12000,08;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;werken EM (lot II);24,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;1;30/06/2004;werken EM (lotII);6,00;4,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;(tanpa grup);318847,06;48690,71;36069,97;35979,80;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;SWA-lijn  (deelwerk 8);26829,92;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;anoxische reactor 2 (deelwerk 11);46602,41;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;beluchtingstank 1 (deelwerk 9);53672,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;4930,92;4099,92;4449,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;interventie AQUAFIN;5,00;1,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;98130,00;40000,00;39666,67;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;pompenkelder slibbehandeling (deelwerk 6);30360,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;slibbuffertanks (deelwerk 5);136276,76;85612,68;31313,00;31083,40;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;voeding indikker (deelwerk 7);12000,08;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;werken EM (lot II);24,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;2;31/07/2004;werken EM (lotII);6,00;4,00;1,00;1,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;(tanpa grup);318847,06;60868,15;48277,93;48157,24;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;SWA-lijn  (deelwerk 8);26829,92;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;anoxische reactor 2 (deelwerk 11);46602,41;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;beluchtingstank 1 (deelwerk 9);53672,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;4930,92;4099,92;4449,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;interventie AQUAFIN;5,00;1,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;178130,00;103796,67;78796,67;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;pompenkelder slibbehandeling (deelwerk 6);30360,00;1800,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;slibbuffertanks (deelwerk 5);136276,76;108530,76;67541,50;66549,80;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;15735,28;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;voeding indikker (deelwerk 7);12000,08;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;werken EM (lot II);24,00;1,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;3;31/08/2004;werken EM (lotII);6,00;4,00;1,00;1,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;(tanpa grup);318847,06;73045,59;60888,20;60888,20;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;SWA-lijn  (deelwerk 8);26829,92;7666,64;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;anoxische reactor 2 (deelwerk 11);46602,41;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;beluchtingstank 1 (deelwerk 9);53672,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;4930,92;4099,92;4449,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;interventie AQUAFIN;5,00;2,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;251103,00;157526,40;119391,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;pompenkelder slibbehandeling (deelwerk 6);30360,00;26430,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;slibbuffertanks (deelwerk 5);136276,76;131276,76;74769,97;74660,52;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;66108,48;16401,92;16401,92;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;voeding indikker (deelwerk 7);12000,08;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;werken EM (lot II);24,00;5,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;4;30/09/2004;werken EM (lotII);6,00;4,00;1,00;1,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;(tanpa grup);318847,06;84669,51;73065,65;73065,64;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;SWA-lijn  (deelwerk 8);26829,92;21829,92;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;anoxische reactor 2 (deelwerk 11);46602,41;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;beluchtingstank 1 (deelwerk 9);53672,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;4930,92;4099,92;4449,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;interventie AQUAFIN;5,00;4,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;338228,92;265383,00;201536,17;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;pompenkelder slibbehandeling (deelwerk 6);30360,00;30360,00;6000,00;6000,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;slibbuffertanks (deelwerk 5);136276,76;136276,76;82327,01;94049,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;86162,68;59441,92;59441,92;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;voeding indikker (deelwerk 7);12000,08;12000,08;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;werken EM (lot II);24,00;15,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;5;31/10/2004;werken EM (lotII);6,00;6,00;1,00;1,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;(tanpa grup);318847,06;96846,96;85796,60;85796,60;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;SWA-lijn  (deelwerk 8);26829,92;26829,92;15999,92;15999,92;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;anoxische reactor 2 (deelwerk 11);46602,41;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;beluchtingstank 1 (deelwerk 9);53672,00;0,00;14504,00;14504,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;5430,92;4099,92;4449,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;interventie AQUAFIN;5,00;5,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;359382,36;274382,84;213107,37;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;pompenkelder slibbehandeling (deelwerk 6);30360,00;30360,00;30360,00;32660,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;slibbuffertanks (deelwerk 5);136276,76;136276,76;131176,76;147390,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;86162,68;64441,84;64441,84;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;voeding indikker (deelwerk 7);12000,08;12000,08;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;werken EM (lot II);24,00;18,00;3,00;3,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;6;30/11/2004;werken EM (lotII);6,00;6,00;1,00;1,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;(tanpa grup);318847,06;109577,92;96867,00;96867,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;SWA-lijn  (deelwerk 8);26829,92;26829,92;21829,92;21829,92;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;anoxische reactor 2 (deelwerk 11);46602,41;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;beluchtingstank 1 (deelwerk 9);53672,00;0,00;14504,00;14504,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;5430,92;5429,92;5779,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;interventie AQUAFIN;5,00;5,00;1,00;1,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;359382,36;309382,84;248107,37;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;pompenkelder slibbehandeling (deelwerk 6);30360,00;30360,00;30360,00;32660,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;slibbuffertanks (deelwerk 5);136276,76;136276,76;136276,76;152490,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;86162,68;71162,84;71162,84;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;voeding indikker (deelwerk 7);12000,08;12000,08;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;werken EM (lot II);24,00;18,00;14,00;14,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;7;31/12/2004;werken EM (lotII);6,00;6,00;4,00;4,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;(tanpa grup);318847,06;121201,84;109597,96;109597,96;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;SWA-lijn  (deelwerk 8);26829,92;26829,92;21829,92;21829,92;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;anoxische reactor 2 (deelwerk 11);46602,41;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;beluchtingstank 1 (deelwerk 9);53672,00;10984,80;14504,00;14504,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;5430,92;5429,92;5779,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;0,00;17126,40;8628,80;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;interventie AQUAFIN;5,00;5,00;3,00;3,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;359382,36;321882,60;260722,57;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;pompenkelder slibbehandeling (deelwerk 6);30360,00;30360,00;30360,00;32660,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;slibbuffertanks (deelwerk 5);136276,76;136276,76;136276,76;152490,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;86162,68;71162,84;71162,84;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;voeding indikker (deelwerk 7);12000,08;12000,08;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;werken EM (lot II);24,00;19,00;18,00;18,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;8;31/01/2005;werken EM (lotII);6,00;6,00;5,00;5,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;(tanpa grup);318847,06;132272,24;120668,37;120668,36;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;SWA-lijn  (deelwerk 8);26829,92;26829,92;26829,92;32652,92;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;anoxische reactor 2 (deelwerk 11);46602,41;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;beluchtingstank 1 (deelwerk 9);53672,00;44295,20;53672,00;48013,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;5430,92;5430,92;5780,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;6570,20;44496,00;33955,60;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;interventie AQUAFIN;5,00;5,00;4,00;4,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;359382,36;334382,36;261337,77;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;pompenkelder slibbehandeling (deelwerk 6);30360,00;30360,00;30360,00;32660,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;slibbuffertanks (deelwerk 5);136276,76;136276,76;136276,76;152490,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;86162,68;86162,68;86162,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;voeding indikker (deelwerk 7);12000,08;12000,08;12000,08;16000,08;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;werken EM (lot II);24,00;23,00;24,00;24,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;9;28/02/2005;werken EM (lotII);6,00;6,00;6,00;6,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;(tanpa grup);318847,06;145003,20;132845,81;132845,80;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;SWA-lijn  (deelwerk 8);26829,92;26829,92;26829,92;32652,92;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;anoxische reactor 2 (deelwerk 11);46602,41;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;beluchtingstank 1 (deelwerk 9);53672,00;52914,48;53672,00;48013,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;5430,92;5430,92;5780,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;12362,00;44496,00;33955,60;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;interventie AQUAFIN;5,00;5,00;4,00;4,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;359382,36;334382,36;261337,77;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;pompenkelder slibbehandeling (deelwerk 6);30360,00;30360,00;30360,00;32660,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;slibbuffertanks (deelwerk 5);136276,76;136276,76;136276,76;152490,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;86162,68;86162,68;86162,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;voeding indikker (deelwerk 7);12000,08;12000,08;12000,08;16000,08;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;werken EM (lot II);24,00;24,00;24,00;24,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;10;31/03/2005;werken EM (lotII);6,00;6,00;6,00;6,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;(tanpa grup);318847,06;156627,12;145023,24;145023,25;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;SWA-lijn  (deelwerk 8);26829,92;26829,92;26829,92;32652,92;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;anoxische reactor 2 (deelwerk 11);46602,41;0,00;21081,68;18255,02;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;beluchtingstank 1 (deelwerk 9);53672,00;53672,00;53672,00;48013,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;5430,92;5430,92;5780,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;33761,00;44496,00;33955,60;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;interventie AQUAFIN;5,00;5,00;4,00;4,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;359382,36;334382,36;261337,77;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;pompenkelder slibbehandeling (deelwerk 6);30360,00;30360,00;30360,00;32660,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;slibbuffertanks (deelwerk 5);136276,76;136276,76;136276,76;152490,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;86162,68;86162,68;86162,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;voeding indikker (deelwerk 7);12000,08;12000,08;12000,08;16000,08;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;werken EM (lot II);24,00;24,00;24,00;24,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;11;30/04/2005;werken EM (lotII);6,00;6,00;6,00;6,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;(tanpa grup);318847,06;168804,56;157754,20;157754,21;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;SWA-lijn  (deelwerk 8);26829,92;26829,92;26829,92;32652,92;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;anoxische reactor 2 (deelwerk 11);46602,41;0,00;46602,41;39653,26;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;beluchtingstank 1 (deelwerk 9);53672,00;53672,00;53672,00;48013,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;0,00;0,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;5430,92;5430,92;5780,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;36772,00;44496,00;33955,60;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;interventie AQUAFIN;5,00;5,00;4,00;4,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;359382,36;334382,36;261337,77;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;pompenkelder slibbehandeling (deelwerk 6);30360,00;30360,00;30360,00;32660,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;slibbuffertanks (deelwerk 5);136276,76;136276,76;136276,76;152490,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;86162,68;86162,68;86162,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;voeding indikker (deelwerk 7);12000,08;12000,08;12000,08;16000,08;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;werken EM (lot II);24,00;24,00;24,00;24,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;12;31/05/2005;werken EM (lotII);6,00;6,00;6,00;6,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;(tanpa grup);318847,06;180982,00;169931,64;169931,65;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;SWA-lijn  (deelwerk 8);26829,92;26829,92;26829,92;32652,92;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;anoxische reactor 2 (deelwerk 11);46602,41;0,00;46602,41;39653,26;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;beluchtingstank 1 (deelwerk 9);53672,00;53672,00;53672,00;48013,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;10970,02;8897,25;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;5430,92;5430,92;5780,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;44496,00;44496,00;33955,60;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;interventie AQUAFIN;5,00;5,00;5,00;5,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;359382,36;334382,36;261337,77;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;pompenkelder slibbehandeling (deelwerk 6);30360,00;30360,00;30360,00;32660,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;slibbuffertanks (deelwerk 5);136276,76;136276,76;136276,76;152490,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;86162,68;86162,68;86162,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;voeding indikker (deelwerk 7);12000,08;12000,08;12000,08;16000,08;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;werken EM (lot II);24,00;24,00;24,00;24,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;13;30/06/2005;werken EM (lotII);6,00;6,00;6,00;6,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;(tanpa grup);318847,06;197901,30;181002,05;181002,05;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;SWA-lijn  (deelwerk 8);26829,92;26829,92;26829,92;32652,92;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;anoxische reactor 2 (deelwerk 11);46602,41;0,00;46602,41;39653,26;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;beluchtingstank 1 (deelwerk 9);53672,00;53672,00;53672,00;48013,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;15887,16;12522,61;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;5430,92;5430,92;5780,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;44496,00;44496,00;33955,60;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;interventie AQUAFIN;5,00;5,00;5,00;5,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;359382,36;334382,36;261337,77;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;pompenkelder slibbehandeling (deelwerk 6);30360,00;30360,00;30360,00;32660,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;slibbuffertanks (deelwerk 5);136276,76;136276,76;136276,76;152490,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;86162,68;86162,68;86162,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;voeding indikker (deelwerk 7);12000,08;12000,08;12000,08;16000,08;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;werken EM (lot II);24,00;24,00;24,00;24,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;14;31/07/2005;werken EM (lotII);6,00;6,00;6,00;6,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;(tanpa grup);318847,06;234991,03;218091,77;218091,77;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;SWA-lijn  (deelwerk 8);26829,92;26829,92;26829,92;32652,92;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;anoxische reactor 2 (deelwerk 11);46602,41;13980,82;46602,41;39653,26;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;beluchtingstank 1 (deelwerk 9);53672,00;53672,00;53672,00;48013,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;31780,32;27556,26;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;5430,92;5430,92;5780,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;44496,00;44496,00;33955,60;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;interventie AQUAFIN;5,00;5,00;5,00;5,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;359382,36;334382,36;261337,77;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;pompenkelder slibbehandeling (deelwerk 6);30360,00;30360,00;30360,00;32660,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;slibbuffertanks (deelwerk 5);136276,76;136276,76;136276,76;152490,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;86162,68;86162,68;86162,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;voeding indikker (deelwerk 7);12000,08;12000,08;12000,08;16000,08;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;werken EM (lot II);24,00;24,00;24,00;24,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;15;31/08/2005;werken EM (lotII);6,00;6,00;6,00;6,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;(tanpa grup);318847,06;270468,16;265172,78;265172,77;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;SWA-lijn  (deelwerk 8);26829,92;26829,92;26829,92;32652,92;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;anoxische reactor 2 (deelwerk 11);46602,41;31069,27;46602,41;39653,26;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;beluchtingstank 1 (deelwerk 9);53672,00;53672,00;53672,00;48013,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;0,00;31780,32;27556,26;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;5430,92;5430,92;5780,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;44496,00;44496,00;33955,60;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;interventie AQUAFIN;5,00;5,00;5,00;5,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;359382,36;359382,36;286337,77;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;pompenkelder slibbehandeling (deelwerk 6);30360,00;30360,00;30360,00;32660,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;slibbuffertanks (deelwerk 5);136276,76;136276,76;136276,76;152490,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;86162,68;86162,68;86162,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;voeding indikker (deelwerk 7);12000,08;12000,08;12000,08;16000,08;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;werken EM (lot II);24,00;24,00;24,00;24,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;16;30/09/2005;werken EM (lotII);6,00;6,00;6,00;6,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;(tanpa grup);318847,06;318847,06;318847,06;310147,06;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;SWA-lijn  (deelwerk 8);26829,92;26829,92;26829,92;32652,92;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;anoxische reactor 2 (deelwerk 11);46602,41;46602,41;46602,41;39653,26;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;beluchtingstank 1 (deelwerk 9);53672,00;53672,00;53672,00;48013,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;beluchtingstank 2 en beluchtingsreactor 3 (deelwerk 12);31780,32;31780,32;31780,32;27556,26;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;effluentmeting en lozingskonstruktie (deelwerk 2);5430,92;5430,92;5430,92;5780,81;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;influentgoot na zandvanger, selektortank en anoxische reactor 1 (deelwerk 10);44496,00;44496,00;44496,00;33955,60;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;interventie AQUAFIN;5,00;5,00;5,00;5,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;nabezinktank 3 en recirkulatiepompstation (deelwerk 3);359382,36;359382,36;359382,36;286337,77;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;pompenkelder slibbehandeling (deelwerk 6);30360,00;30360,00;30360,00;32660,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;slibbuffertanks (deelwerk 5);136276,76;136276,76;136276,76;152490,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;verdeelkamer nabezinktank 1/2 & 3 (deelwerk 4);86162,68;86162,68;86162,68;86162,68;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;voeding indikker (deelwerk 7);12000,08;12000,08;12000,08;16000,08;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;werfinstallatie;84728,16;84728,16;84728,16;74999,27;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;werken EM (lot II);24,00;24,00;24,00;24,00;0,00;0,00;0,00
+C2013-02;Sewage Plant Hove;€;17;11/11/2005;werken EM (lotII);6,00;6,00;6,00;6,00;0,00;0,00;0,00

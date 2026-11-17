@@ -1,0 +1,29 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2015-13;Broker Account Conversion System;€;1;20/01/2014;analysis;150,00;0,00;0,00;0,00;2,00;0,00;0,00
+C2015-13;Broker Account Conversion System;€;1;20/01/2014;design;150,00;0,00;75,00;75,00;2,00;1,00;1,00
+C2015-13;Broker Account Conversion System;€;1;20/01/2014;development;4650,00;0,00;135,00;150,00;62,00;1,80;2,00
+C2015-13;Broker Account Conversion System;€;1;20/01/2014;implementation;975,00;0,00;0,00;0,00;13,00;0,00;0,00
+C2015-13;Broker Account Conversion System;€;1;20/01/2014;requirements;150,00;150,00;150,00;150,00;2,00;2,00;2,00
+C2015-13;Broker Account Conversion System;€;1;20/01/2014;supporting tasks;3060,00;3060,00;918,00;810,00;34,00;10,20;9,00
+C2015-13;Broker Account Conversion System;€;1;20/01/2014;test ict;3600,00;0,00;0,00;0,00;48,00;0,00;0,00
+C2015-13;Broker Account Conversion System;€;2;17/02/2014;analysis;150,00;150,00;150,00;150,00;2,00;2,00;2,00
+C2015-13;Broker Account Conversion System;€;2;17/02/2014;design;150,00;150,00;75,00;75,00;2,00;1,00;1,00
+C2015-13;Broker Account Conversion System;€;2;17/02/2014;development;4650,00;4650,00;3397,50;2400,00;62,00;45,30;32,00
+C2015-13;Broker Account Conversion System;€;2;17/02/2014;implementation;975,00;0,00;0,00;0,00;13,00;0,00;0,00
+C2015-13;Broker Account Conversion System;€;2;17/02/2014;requirements;150,00;150,00;150,00;150,00;2,00;2,00;2,00
+C2015-13;Broker Account Conversion System;€;2;17/02/2014;supporting tasks;3060,00;3060,00;1897,20;1710,00;34,00;21,08;19,00
+C2015-13;Broker Account Conversion System;€;2;17/02/2014;test ict;3600,00;675,00;81,00;75,00;48,00;1,08;1,00
+C2015-13;Broker Account Conversion System;€;3;31/03/2014;analysis;150,00;150,00;150,00;150,00;2,00;2,00;2,00
+C2015-13;Broker Account Conversion System;€;3;31/03/2014;design;150,00;150,00;75,00;75,00;2,00;1,00;1,00
+C2015-13;Broker Account Conversion System;€;3;31/03/2014;development;4650,00;4650,00;4650,00;3600,00;62,00;62,00;48,00
+C2015-13;Broker Account Conversion System;€;3;31/03/2014;implementation;975,00;0,00;47,25;225,00;13,00;0,63;3,00
+C2015-13;Broker Account Conversion System;€;3;31/03/2014;requirements;150,00;150,00;150,00;150,00;2,00;2,00;2,00
+C2015-13;Broker Account Conversion System;€;3;31/03/2014;supporting tasks;3060,00;3060,00;2570,40;2340,00;34,00;28,56;26,00
+C2015-13;Broker Account Conversion System;€;3;31/03/2014;test ict;3600,00;3600,00;3202,50;2250,00;48,00;42,70;30,00
+C2015-13;Broker Account Conversion System;€;4;12/05/2014;analysis;150,00;150,00;150,00;150,00;2,00;2,00;2,00
+C2015-13;Broker Account Conversion System;€;4;12/05/2014;design;150,00;150,00;150,00;300,00;2,00;2,00;4,00
+C2015-13;Broker Account Conversion System;€;4;12/05/2014;development;4650,00;4650,00;4650,00;3600,00;62,00;62,00;48,00
+C2015-13;Broker Account Conversion System;€;4;12/05/2014;implementation;975,00;975,00;975,00;450,00;13,00;13,00;6,00
+C2015-13;Broker Account Conversion System;€;4;12/05/2014;requirements;150,00;150,00;150,00;150,00;2,00;2,00;2,00
+C2015-13;Broker Account Conversion System;€;4;12/05/2014;supporting tasks;3060,00;3060,00;3060,00;2790,00;34,00;34,00;31,00
+C2015-13;Broker Account Conversion System;€;4;12/05/2014;test ict;3600,00;3600,00;3600,00;2550,00;48,00;48,00;34,00

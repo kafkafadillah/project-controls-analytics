@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "project-controls"
+version = "1.0.0"
+description = "Analisis kinerja biaya & jadwal proyek (earned value) dari database proyek nyata DSLIB"
+authors = [{ name = "Khafka Fadillah Wibawa Nurdiansyah" }]
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = ["pandas>=2.0", "numpy>=1.24", "matplotlib>=3.7", "openpyxl>=3.1"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

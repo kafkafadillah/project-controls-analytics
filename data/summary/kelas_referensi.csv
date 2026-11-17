@@ -1,0 +1,9 @@
+dimensi,kelas,proyek,P50,P80,P90
+Semua proyek,Semua,119,1.007204,1.058472,1.160845
+Jenis pekerjaan,Gedung komersial & institusi,23,1.000000,1.056863,1.098043
+Jenis pekerjaan,Industri & engineering,15,1.011988,1.092749,1.142250
+Jenis pekerjaan,Perumahan,43,1.030841,1.098955,1.181944
+Jenis pekerjaan,Sipil & infrastruktur,38,1.000000,1.029374,1.071827
+Ukuran proyek,Besar (> 1 jt),38,1.014263,1.106893,1.202450
+Ukuran proyek,Kecil (< 250 rb),46,1.006327,1.053349,1.169587
+Ukuran proyek,Menengah (250 rb - 1 jt),35,1.000000,1.046835,1.068632

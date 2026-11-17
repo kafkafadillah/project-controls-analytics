@@ -1,0 +1,16 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2015-11;Staff Authorization System;€;1;17/03/2014;analysis;4500,00;4500,00;1800,00;1890,00;50,00;20,00;21,00
+C2015-11;Staff Authorization System;€;1;17/03/2014;development;5100,00;2850,00;2250,00;75,00;68,00;30,00;1,00
+C2015-11;Staff Authorization System;€;1;17/03/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-11;Staff Authorization System;€;1;17/03/2014;requirements;1275,00;1275,00;1275,00;1275,00;17,00;17,00;17,00
+C2015-11;Staff Authorization System;€;1;17/03/2014;supporting tasks;3525,00;1800,00;684,00;720,00;43,00;7,60;8,00
+C2015-11;Staff Authorization System;€;2;14/04/2014;analysis;4500,00;4500,00;3645,00;3780,00;50,00;40,50;42,00
+C2015-11;Staff Authorization System;€;2;14/04/2014;development;5100,00;5100,00;5100,00;1200,00;68,00;68,00;16,00
+C2015-11;Staff Authorization System;€;2;14/04/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-11;Staff Authorization System;€;2;14/04/2014;requirements;1275,00;1275,00;1275,00;1275,00;17,00;17,00;17,00
+C2015-11;Staff Authorization System;€;2;14/04/2014;supporting tasks;3525,00;2475,00;3291,00;1680,00;43,00;40,40;19,00
+C2015-11;Staff Authorization System;€;3;12/05/2014;analysis;4500,00;4500,00;4500,00;4680,00;50,00;50,00;52,00
+C2015-11;Staff Authorization System;€;3;12/05/2014;development;5100,00;5100,00;5100,00;1200,00;68,00;68,00;16,00
+C2015-11;Staff Authorization System;€;3;12/05/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-11;Staff Authorization System;€;3;12/05/2014;requirements;1275,00;1275,00;1275,00;1275,00;17,00;17,00;17,00
+C2015-11;Staff Authorization System;€;3;12/05/2014;supporting tasks;3525,00;3525,00;3525,00;1950,00;43,00;43,00;22,00

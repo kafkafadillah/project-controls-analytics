@@ -1,0 +1,22 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2015-18;Tax Return System (2);€;1;03/02/2014;analyse;5010,00;5010,00;3965,40;3930,00;64,00;52,06;52,00
+C2015-18;Tax Return System (2);€;1;03/02/2014;design;6750,00;3225,00;272,25;225,00;90,00;3,63;3,00
+C2015-18;Tax Return System (2);€;1;03/02/2014;development;15675,00;4800,00;877,50;675,00;209,00;11,70;9,00
+C2015-18;Tax Return System (2);€;1;03/02/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-18;Tax Return System (2);€;1;03/02/2014;post implementation;2325,00;0,00;0,00;0,00;31,00;0,00;0,00
+C2015-18;Tax Return System (2);€;1;03/02/2014;supporting tasks;3690,00;3690,00;1476,00;900,00;41,00;16,40;10,00
+C2015-18;Tax Return System (2);€;1;03/02/2014;"test ict &amp; uat";6000,00;0,00;0,00;0,00;80,00;0,00;0,00
+C2015-18;Tax Return System (2);€;2;17/03/2014;analyse;5010,00;5010,00;4115,40;4005,00;64,00;54,06;53,00
+C2015-18;Tax Return System (2);€;2;17/03/2014;design;6750,00;6750,00;3747,75;3300,00;90,00;49,97;44,00
+C2015-18;Tax Return System (2);€;2;17/03/2014;development;15675,00;9450,00;6032,25;3750,00;209,00;80,43;50,00
+C2015-18;Tax Return System (2);€;2;17/03/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-18;Tax Return System (2);€;2;17/03/2014;post implementation;2325,00;0,00;0,00;0,00;31,00;0,00;0,00
+C2015-18;Tax Return System (2);€;2;17/03/2014;supporting tasks;3690,00;3690,00;2214,00;1350,00;41,00;24,60;15,00
+C2015-18;Tax Return System (2);€;2;17/03/2014;"test ict &amp; uat";6000,00;0,00;0,00;0,00;80,00;0,00;0,00
+C2015-18;Tax Return System (2);€;3;01/07/2014;analyse;5010,00;5010,00;5010,00;4455,00;64,00;64,00;58,00
+C2015-18;Tax Return System (2);€;3;01/07/2014;design;6750,00;6750,00;6750,00;6300,00;90,00;90,00;84,00
+C2015-18;Tax Return System (2);€;3;01/07/2014;development;15675,00;15675,00;15675,00;9450,00;209,00;209,00;126,00
+C2015-18;Tax Return System (2);€;3;01/07/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-18;Tax Return System (2);€;3;01/07/2014;post implementation;2325,00;2325,00;2325,00;675,00;31,00;31,00;9,00
+C2015-18;Tax Return System (2);€;3;01/07/2014;supporting tasks;3690,00;3690,00;3690,00;2250,00;41,00;41,00;25,00
+C2015-18;Tax Return System (2);€;3;01/07/2014;"test ict &amp; uat";6000,00;6000,00;6000,00;2250,00;80,00;80,00;30,00

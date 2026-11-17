@@ -1,0 +1,100 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2015-02;Railway Station (1);€;1;25/03/2011;(tanpa grup);177314,07;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;1;25/03/2011;GOK;167143,04;2,24;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;1;25/03/2011;Grondwerken en infrastructuur-zone B;213962,32;150546,48;140192,32;141622,96;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;1;25/03/2011;Grondwerken en infrastructuur-zone C;67095,04;13418,96;1968,68;1849,68;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;1;25/03/2011;Grondwerken en infrastructuur-zone D;33295,84;2848,48;1379,92;1379,92;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;1;25/03/2011;KOK A;50117,52;0,72;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;1;25/03/2011;KOK B;52740,40;0,72;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;1;25/03/2011;Superstructuur-zone A;129942,00;10135,60;0,42;10813,44;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;1;25/03/2011;Superstructuur-zone B;73415,84;0,64;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;1;25/03/2011;Superstructuur-zone C;91207,12;226,32;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;1;25/03/2011;Superstructuur-zone D;65083,76;0,96;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;2;10/06/2011;(tanpa grup);177314,07;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;2;10/06/2011;GOK;167143,04;2,24;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;2;10/06/2011;Grondwerken en infrastructuur-zone B;213962,32;207976,40;183777,60;237590,08;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;2;10/06/2011;Grondwerken en infrastructuur-zone C;67095,04;31816,32;16220,48;14662,80;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;2;10/06/2011;Grondwerken en infrastructuur-zone D;33295,84;11517,28;4122,46;4179,44;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;2;10/06/2011;KOK A;50117,52;0,72;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;2;10/06/2011;KOK B;52740,40;0,72;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;2;10/06/2011;Superstructuur-zone A;129942,00;39862,00;0,80;24106,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;2;10/06/2011;Superstructuur-zone B;73415,84;8783,44;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;2;10/06/2011;Superstructuur-zone C;91207,12;226,32;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;2;10/06/2011;Superstructuur-zone D;65083,76;0,96;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;3;26/08/2011;(tanpa grup);177314,07;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;3;26/08/2011;GOK;167143,04;4072,64;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;3;26/08/2011;Grondwerken en infrastructuur-zone B;213962,32;213962,32;189222,37;251091,44;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;3;26/08/2011;Grondwerken en infrastructuur-zone C;67095,04;54995,84;23110,94;21795,68;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;3;26/08/2011;Grondwerken en infrastructuur-zone D;33295,84;27819,36;6167,60;7294,40;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;3;26/08/2011;KOK A;50117,52;0,72;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;3;26/08/2011;KOK B;52740,40;0,72;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;3;26/08/2011;Superstructuur-zone A;129942,00;77020,00;1,12;35821,28;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;3;26/08/2011;Superstructuur-zone B;73415,84;63056,64;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;3;26/08/2011;Superstructuur-zone C;91207,12;1577,52;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;3;26/08/2011;Superstructuur-zone D;65083,76;0,96;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;4;11/11/2011;(tanpa grup);177314,07;88657,04;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;4;11/11/2011;GOK;167143,04;36381,44;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;4;11/11/2011;Grondwerken en infrastructuur-zone B;213962,32;213962,32;202938,09;281785,16;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;4;11/11/2011;Grondwerken en infrastructuur-zone C;67095,04;67095,04;33108,48;35553,84;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;4;11/11/2011;Grondwerken en infrastructuur-zone D;33295,84;33295,84;9749,20;8823,20;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;4;11/11/2011;KOK A;50117,52;255,12;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;4;11/11/2011;KOK B;52740,40;8628,64;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;4;11/11/2011;Superstructuur-zone A;129942,00;107872,40;16611,21;55190,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;4;11/11/2011;Superstructuur-zone B;73415,84;73415,84;0,32;5406,72;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;4;11/11/2011;Superstructuur-zone C;91207,12;68236,72;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;4;11/11/2011;Superstructuur-zone D;65083,76;19368,16;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;5;27/01/2012;(tanpa grup);177314,07;177314,07;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;5;27/01/2012;GOK;167143,04;103034,24;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;5;27/01/2012;Grondwerken en infrastructuur-zone B;213962,32;213962,32;212220,50;298725,48;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;5;27/01/2012;Grondwerken en infrastructuur-zone C;67095,04;67095,04;50562,24;53134,16;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;5;27/01/2012;Grondwerken en infrastructuur-zone D;33295,84;33295,84;23730,06;20540,32;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;5;27/01/2012;KOK A;50117,52;8014,32;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;5;27/01/2012;KOK B;52740,40;31960,48;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;5;27/01/2012;Superstructuur-zone A;129942,00;121609,60;73385,42;90546,40;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;5;27/01/2012;Superstructuur-zone B;73415,84;73415,84;5225,66;15540,72;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;5;27/01/2012;Superstructuur-zone C;91207,12;91207,12;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;5;27/01/2012;Superstructuur-zone D;65083,76;60804,96;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;6;13/04/2012;(tanpa grup);177314,07;177314,07;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;6;13/04/2012;GOK;167143,04;145010,24;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;6;13/04/2012;Grondwerken en infrastructuur-zone B;213962,32;213962,32;213962,27;301909,72;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;6;13/04/2012;Grondwerken en infrastructuur-zone C;67095,04;67095,04;65209,13;66509,04;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;6;13/04/2012;Grondwerken en infrastructuur-zone D;33295,84;33295,84;28455,75;27546,72;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;6;13/04/2012;KOK A;50117,52;30019,92;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;6;13/04/2012;KOK B;52740,40;43018,80;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;6;13/04/2012;Superstructuur-zone A;129942,00;129942,00;114628,04;123878,32;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;6;13/04/2012;Superstructuur-zone B;73415,84;73415,84;32279,07;34007,68;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;6;13/04/2012;Superstructuur-zone C;91207,12;91207,12;5325,88;11037,76;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;6;13/04/2012;Superstructuur-zone D;65083,76;65083,76;0,46;6082,56;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;7;29/06/2012;(tanpa grup);177314,07;177314,07;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;7;29/06/2012;GOK;167143,04;159002,24;0,24;9670,24;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;7;29/06/2012;Grondwerken en infrastructuur-zone B;213962,32;213962,32;213962,32;302546,92;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;7;29/06/2012;Grondwerken en infrastructuur-zone C;67095,04;67095,04;67095,04;67400,56;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;7;29/06/2012;Grondwerken en infrastructuur-zone D;33295,84;33295,84;28456,00;32899,20;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;7;29/06/2012;KOK A;50117,52;46428,72;0,07;4200,24;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;7;29/06/2012;KOK B;52740,40;49702,40;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;7;29/06/2012;Superstructuur-zone A;129942,00;129942,00;114628,39;152714,16;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;7;29/06/2012;Superstructuur-zone B;73415,84;73415,84;63957,44;59456,96;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;7;29/06/2012;Superstructuur-zone C;91207,12;91207,12;55757,51;55856,64;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;7;29/06/2012;Superstructuur-zone D;65083,76;65083,76;20356,67;30182,96;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;8;14/09/2012;(tanpa grup);177314,07;177314,07;51008,16;39612,72;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;8;14/09/2012;GOK;167143,04;167143,04;23387,08;17811,84;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;8;14/09/2012;Grondwerken en infrastructuur-zone B;213962,32;213962,32;213962,32;302546,92;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;8;14/09/2012;Grondwerken en infrastructuur-zone C;67095,04;67095,04;67095,04;67400,56;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;8;14/09/2012;Grondwerken en infrastructuur-zone D;33295,84;33295,84;28456,05;35320,56;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;8;14/09/2012;KOK A;50117,52;50117,52;11193,68;6235,84;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;8;14/09/2012;KOK B;52740,40;52740,40;0,00;0,00;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;8;14/09/2012;Superstructuur-zone A;129942,00;129942,00;114628,40;153840,56;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;8;14/09/2012;Superstructuur-zone B;73415,84;73415,84;63957,44;59456,96;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;8;14/09/2012;Superstructuur-zone C;91207,12;91207,12;76794,32;71396,24;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;8;14/09/2012;Superstructuur-zone D;65083,76;65083,76;50670,96;48874,56;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;9;10/12/2012;(tanpa grup);177314,07;177314,07;177314,07;137701,36;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;9;10/12/2012;GOK;167143,04;167143,04;167143,04;67685,80;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;9;10/12/2012;Grondwerken en infrastructuur-zone B;213962,32;213962,32;213962,32;302546,92;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;9;10/12/2012;Grondwerken en infrastructuur-zone C;67095,04;67095,04;67095,04;67400,56;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;9;10/12/2012;Grondwerken en infrastructuur-zone D;33295,84;33295,84;33295,84;39271,04;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;9;10/12/2012;KOK A;50117,52;50117,52;50117,52;12470,96;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;9;10/12/2012;KOK B;52740,40;52740,40;52740,40;6443,04;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;9;10/12/2012;Superstructuur-zone A;129942,00;129942,00;129942,00;154065,76;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;9;10/12/2012;Superstructuur-zone B;73415,84;73415,84;73415,84;59682,16;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;9;10/12/2012;Superstructuur-zone C;91207,12;91207,12;91207,12;71621,44;0,00;0,00;0,00
+C2015-02;Railway Station (1);€;9;10/12/2012;Superstructuur-zone D;65083,76;65083,76;65083,76;49099,76;0,00;0,00;0,00

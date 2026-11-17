@@ -1,0 +1,41 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2015-17;Insurance Bundling System;€;1;01/07/2013;analysis;38340,00;11190,00;2355,00;3150,00;510,00;31,40;42,00
+C2015-17;Insurance Bundling System;€;1;01/07/2013;build;81825,00;0,00;0,00;0,00;1091,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;1;01/07/2013;design;18600,00;300,00;0,00;0,00;248,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;1;01/07/2013;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;1;01/07/2013;ondersteuning;17400,00;0,00;0,00;0,00;232,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;1;01/07/2013;post implementation;8400,00;0,00;0,00;0,00;112,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;1;01/07/2013;supporting tasks;26190,00;0,00;0,00;0,00;291,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;1;01/07/2013;test ict;90675,00;0,00;0,00;0,00;1209,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;2;02/09/2013;analysis;38340,00;34215,00;21315,00;21165,00;510,00;283,00;281,00
+C2015-17;Insurance Bundling System;€;2;02/09/2013;build;81825,00;0,00;0,00;0,00;1091,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;2;02/09/2013;design;18600,00;3825,00;75,00;75,00;248,00;1,00;1,00
+C2015-17;Insurance Bundling System;€;2;02/09/2013;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;2;02/09/2013;ondersteuning;17400,00;0,00;0,00;0,00;232,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;2;02/09/2013;post implementation;8400,00;0,00;0,00;0,00;112,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;2;02/09/2013;supporting tasks;26190,00;26190,00;3762,00;3870,00;291,00;41,80;43,00
+C2015-17;Insurance Bundling System;€;2;02/09/2013;test ict;90675,00;0,00;0,00;0,00;1209,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;3;04/11/2013;analysis;38340,00;38340,00;36904,50;36915,00;510,00;490,86;491,00
+C2015-17;Insurance Bundling System;€;3;04/11/2013;build;81825,00;46650,00;40186,23;37875,00;1091,00;535,82;505,00
+C2015-17;Insurance Bundling System;€;3;04/11/2013;design;18600,00;17250,00;15417,86;15675,00;248,00;205,57;209,00
+C2015-17;Insurance Bundling System;€;3;04/11/2013;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;3;04/11/2013;ondersteuning;17400,00;17400,00;1439,25;1800,00;232,00;19,19;24,00
+C2015-17;Insurance Bundling System;€;3;04/11/2013;post implementation;8400,00;0,00;0,00;0,00;112,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;3;04/11/2013;supporting tasks;26190,00;26190,00;7794,00;7740,00;291,00;86,60;86,00
+C2015-17;Insurance Bundling System;€;3;04/11/2013;test ict;90675,00;20850,00;6799,50;7575,00;1209,00;90,66;101,00
+C2015-17;Insurance Bundling System;€;4;07/01/2014;analysis;38340,00;38340,00;36904,50;36915,00;510,00;490,86;491,00
+C2015-17;Insurance Bundling System;€;4;07/01/2014;build;81825,00;81825,00;76592,25;81975,00;1091,00;1021,23;1093,00
+C2015-17;Insurance Bundling System;€;4;07/01/2014;design;18600,00;18600,00;18600,00;18900,00;248,00;248,00;252,00
+C2015-17;Insurance Bundling System;€;4;07/01/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;4;07/01/2014;ondersteuning;17400,00;17400,00;10101,29;10575,00;232,00;134,68;141,00
+C2015-17;Insurance Bundling System;€;4;07/01/2014;post implementation;8400,00;0,00;0,00;0,00;112,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;4;07/01/2014;supporting tasks;26190,00;26190,00;19105,30;19170,00;291,00;212,28;213,00
+C2015-17;Insurance Bundling System;€;4;07/01/2014;test ict;90675,00;90675,00;59056,15;59250,00;1209,00;787,42;790,00
+C2015-17;Insurance Bundling System;€;5;17/03/2014;analysis;38340,00;38340,00;38340,00;38490,00;510,00;510,00;512,00
+C2015-17;Insurance Bundling System;€;5;17/03/2014;build;81825,00;81825,00;81825,00;87675,00;1091,00;1091,00;1169,00
+C2015-17;Insurance Bundling System;€;5;17/03/2014;design;18600,00;18600,00;18600,00;18900,00;248,00;248,00;252,00
+C2015-17;Insurance Bundling System;€;5;17/03/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-17;Insurance Bundling System;€;5;17/03/2014;ondersteuning;17400,00;17400,00;17400,00;17700,00;232,00;232,00;236,00
+C2015-17;Insurance Bundling System;€;5;17/03/2014;post implementation;8400,00;8400,00;8400,00;3975,00;112,00;112,00;53,00
+C2015-17;Insurance Bundling System;€;5;17/03/2014;supporting tasks;26190,00;26190,00;26190,00;26280,00;291,00;291,00;292,00
+C2015-17;Insurance Bundling System;€;5;17/03/2014;test ict;90675,00;90675,00;90675,00;88050,00;1209,00;1209,00;1174,00

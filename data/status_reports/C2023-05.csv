@@ -1,0 +1,157 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2023-05;Project Data migration;€;1;06/01/2013;Back-up;10000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;1;06/01/2013;Build environment  (Depending on Charlotte's report);2500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;1;06/01/2013;Clean-up legasy (BTR related);10000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;1;06/01/2013;Configuration management;7500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;1;06/01/2013;Deployment framework;20500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;1;06/01/2013;Infrastructure DC Oostkamp;5000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;1;06/01/2013;Monitoring;3500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;1;06/01/2013;Monitoring Infrastructure;3000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;1;06/01/2013;Monitoring SaaS;6000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;1;06/01/2013;Reconfig van DC Oostkamp;9000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;1;06/01/2013;SaaS;10000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;1;06/01/2013;SaaS update;5000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;1;06/01/2013;Speos;20000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;2;08/02/2013;Back-up;10000,00;5000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;2;08/02/2013;Build environment  (Depending on Charlotte's report);2500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;2;08/02/2013;Clean-up legasy (BTR related);10000,00;10000,00;10000,00;16000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;2;08/02/2013;Configuration management;7500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;2;08/02/2013;Deployment framework;20500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;2;08/02/2013;Infrastructure DC Oostkamp;5000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;2;08/02/2013;Monitoring;3500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;2;08/02/2013;Monitoring Infrastructure;3000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;2;08/02/2013;Monitoring SaaS;6000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;2;08/02/2013;Reconfig van DC Oostkamp;9000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;2;08/02/2013;SaaS;10000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;2;08/02/2013;SaaS update;5000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;2;08/02/2013;Speos;20000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;3;10/03/2013;Back-up;10000,00;10000,00;10000,00;14000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;3;10/03/2013;Build environment  (Depending on Charlotte's report);2500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;3;10/03/2013;Clean-up legasy (BTR related);10000,00;10000,00;10000,00;16000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;3;10/03/2013;Configuration management;7500,00;500,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;3;10/03/2013;Deployment framework;20500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;3;10/03/2013;Infrastructure DC Oostkamp;5000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;3;10/03/2013;Monitoring;3500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;3;10/03/2013;Monitoring Infrastructure;3000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;3;10/03/2013;Monitoring SaaS;6000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;3;10/03/2013;Reconfig van DC Oostkamp;9000,00;9000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;3;10/03/2013;SaaS;10000,00;500,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;3;10/03/2013;SaaS update;5000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;3;10/03/2013;Speos;20000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;4;19/05/2013;Back-up;10000,00;10000,00;10000,00;14000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;4;19/05/2013;Build environment  (Depending on Charlotte's report);2500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;4;19/05/2013;Clean-up legasy (BTR related);10000,00;10000,00;10000,00;16000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;4;19/05/2013;Configuration management;7500,00;7500,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;4;19/05/2013;Deployment framework;20500,00;20500,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;4;19/05/2013;Infrastructure DC Oostkamp;5000,00;5000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;4;19/05/2013;Monitoring;3500,00;3500,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;4;19/05/2013;Monitoring Infrastructure;3000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;4;19/05/2013;Monitoring SaaS;6000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;4;19/05/2013;Reconfig van DC Oostkamp;9000,00;9000,00;9000,00;27000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;4;19/05/2013;SaaS;10000,00;10000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;4;19/05/2013;SaaS update;5000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;4;19/05/2013;Speos;20000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;5;23/06/2013;Back-up;10000,00;10000,00;10000,00;14000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;5;23/06/2013;Build environment  (Depending on Charlotte's report);2500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;5;23/06/2013;Clean-up legasy (BTR related);10000,00;10000,00;10000,00;16000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;5;23/06/2013;Configuration management;7500,00;7500,00;7500,00;17500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;5;23/06/2013;Deployment framework;20500,00;20500,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;5;23/06/2013;Infrastructure DC Oostkamp;5000,00;5000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;5;23/06/2013;Monitoring;3500,00;3500,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;5;23/06/2013;Monitoring Infrastructure;3000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;5;23/06/2013;Monitoring SaaS;6000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;5;23/06/2013;Reconfig van DC Oostkamp;9000,00;9000,00;9000,00;27000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;5;23/06/2013;SaaS;10000,00;10000,00;3000,00;5500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;5;23/06/2013;SaaS update;5000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;5;23/06/2013;Speos;20000,00;20000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;6;12/08/2013;Back-up;10000,00;10000,00;10000,00;14000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;6;12/08/2013;Build environment  (Depending on Charlotte's report);2500,00;2500,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;6;12/08/2013;Clean-up legasy (BTR related);10000,00;10000,00;10000,00;16000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;6;12/08/2013;Configuration management;7500,00;7500,00;7500,00;17500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;6;12/08/2013;Deployment framework;20500,00;20500,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;6;12/08/2013;Infrastructure DC Oostkamp;5000,00;5000,00;5000,00;10000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;6;12/08/2013;Monitoring;3500,00;3500,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;6;12/08/2013;Monitoring Infrastructure;3000,00;3000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;6;12/08/2013;Monitoring SaaS;6000,00;6000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;6;12/08/2013;Reconfig van DC Oostkamp;9000,00;9000,00;9000,00;27000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;6;12/08/2013;SaaS;10000,00;10000,00;4500,00;8000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;6;12/08/2013;SaaS update;5000,00;5000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;6;12/08/2013;Speos;20000,00;20000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;7;15/09/2013;Back-up;10000,00;10000,00;10000,00;14000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;7;15/09/2013;Build environment  (Depending on Charlotte's report);2500,00;2500,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;7;15/09/2013;Clean-up legasy (BTR related);10000,00;10000,00;10000,00;16000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;7;15/09/2013;Configuration management;7500,00;7500,00;7500,00;17500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;7;15/09/2013;Deployment framework;20500,00;20500,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;7;15/09/2013;Infrastructure DC Oostkamp;5000,00;5000,00;5000,00;10000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;7;15/09/2013;Monitoring;3500,00;3500,00;3500,00;7000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;7;15/09/2013;Monitoring Infrastructure;3000,00;3000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;7;15/09/2013;Monitoring SaaS;6000,00;6000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;7;15/09/2013;Reconfig van DC Oostkamp;9000,00;9000,00;9000,00;27000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;7;15/09/2013;SaaS;10000,00;10000,00;4500,00;8000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;7;15/09/2013;SaaS update;5000,00;5000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;7;15/09/2013;Speos;20000,00;20000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;8;26/10/2013;Back-up;10000,00;10000,00;10000,00;14000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;8;26/10/2013;Build environment  (Depending on Charlotte's report);2500,00;2500,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;8;26/10/2013;Clean-up legasy (BTR related);10000,00;10000,00;10000,00;16000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;8;26/10/2013;Configuration management;7500,00;7500,00;7500,00;17500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;8;26/10/2013;Deployment framework;20500,00;20500,00;20500,00;32800,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;8;26/10/2013;Infrastructure DC Oostkamp;5000,00;5000,00;5000,00;10000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;8;26/10/2013;Monitoring;3500,00;3500,00;3500,00;7000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;8;26/10/2013;Monitoring Infrastructure;3000,00;3000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;8;26/10/2013;Monitoring SaaS;6000,00;6000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;8;26/10/2013;Reconfig van DC Oostkamp;9000,00;9000,00;9000,00;27000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;8;26/10/2013;SaaS;10000,00;10000,00;7000,00;13000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;8;26/10/2013;SaaS update;5000,00;5000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;8;26/10/2013;Speos;20000,00;20000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;9;05/12/2013;Back-up;10000,00;10000,00;10000,00;14000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;9;05/12/2013;Build environment  (Depending on Charlotte's report);2500,00;2500,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;9;05/12/2013;Clean-up legasy (BTR related);10000,00;10000,00;10000,00;16000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;9;05/12/2013;Configuration management;7500,00;7500,00;7500,00;17500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;9;05/12/2013;Deployment framework;20500,00;20500,00;20500,00;32800,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;9;05/12/2013;Infrastructure DC Oostkamp;5000,00;5000,00;5000,00;10000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;9;05/12/2013;Monitoring;3500,00;3500,00;3500,00;7000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;9;05/12/2013;Monitoring Infrastructure;3000,00;3000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;9;05/12/2013;Monitoring SaaS;6000,00;6000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;9;05/12/2013;Reconfig van DC Oostkamp;9000,00;9000,00;9000,00;27000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;9;05/12/2013;SaaS;10000,00;10000,00;10000,00;19500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;9;05/12/2013;SaaS update;5000,00;5000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;9;05/12/2013;Speos;20000,00;20000,00;20000,00;32000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;10;30/12/2013;Back-up;10000,00;10000,00;10000,00;14000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;10;30/12/2013;Build environment  (Depending on Charlotte's report);2500,00;2500,00;2500,00;5000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;10;30/12/2013;Clean-up legasy (BTR related);10000,00;10000,00;10000,00;16000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;10;30/12/2013;Configuration management;7500,00;7500,00;7500,00;17500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;10;30/12/2013;Deployment framework;20500,00;20500,00;20500,00;32800,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;10;30/12/2013;Infrastructure DC Oostkamp;5000,00;5000,00;5000,00;10000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;10;30/12/2013;Monitoring;3500,00;3500,00;3500,00;7000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;10;30/12/2013;Monitoring Infrastructure;3000,00;3000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;10;30/12/2013;Monitoring SaaS;6000,00;6000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;10;30/12/2013;Reconfig van DC Oostkamp;9000,00;9000,00;9000,00;27000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;10;30/12/2013;SaaS;10000,00;10000,00;10000,00;19500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;10;30/12/2013;SaaS update;5000,00;5000,00;5000,00;10000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;10;30/12/2013;Speos;20000,00;20000,00;20000,00;32000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;11;21/01/2014;Back-up;10000,00;10000,00;10000,00;14000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;11;21/01/2014;Build environment  (Depending on Charlotte's report);2500,00;2500,00;2500,00;5000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;11;21/01/2014;Clean-up legasy (BTR related);10000,00;10000,00;10000,00;16000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;11;21/01/2014;Configuration management;7500,00;7500,00;7500,00;17500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;11;21/01/2014;Deployment framework;20500,00;20500,00;20500,00;32800,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;11;21/01/2014;Infrastructure DC Oostkamp;5000,00;5000,00;5000,00;10000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;11;21/01/2014;Monitoring;3500,00;3500,00;3500,00;7000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;11;21/01/2014;Monitoring Infrastructure;3000,00;3000,00;3000,00;7500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;11;21/01/2014;Monitoring SaaS;6000,00;6000,00;0,00;0,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;11;21/01/2014;Reconfig van DC Oostkamp;9000,00;9000,00;9000,00;27000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;11;21/01/2014;SaaS;10000,00;10000,00;10000,00;19500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;11;21/01/2014;SaaS update;5000,00;5000,00;5000,00;10000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;11;21/01/2014;Speos;20000,00;20000,00;20000,00;32000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;12;01/03/2014;Back-up;10000,00;10000,00;10000,00;14000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;12;01/03/2014;Build environment  (Depending on Charlotte's report);2500,00;2500,00;2500,00;5000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;12;01/03/2014;Clean-up legasy (BTR related);10000,00;10000,00;10000,00;16000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;12;01/03/2014;Configuration management;7500,00;7500,00;7500,00;17500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;12;01/03/2014;Deployment framework;20500,00;20500,00;20500,00;32800,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;12;01/03/2014;Infrastructure DC Oostkamp;5000,00;5000,00;5000,00;10000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;12;01/03/2014;Monitoring;3500,00;3500,00;3500,00;7000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;12;01/03/2014;Monitoring Infrastructure;3000,00;3000,00;3000,00;7500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;12;01/03/2014;Monitoring SaaS;6000,00;6000,00;6000,00;19500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;12;01/03/2014;Reconfig van DC Oostkamp;9000,00;9000,00;9000,00;27000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;12;01/03/2014;SaaS;10000,00;10000,00;10000,00;19500,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;12;01/03/2014;SaaS update;5000,00;5000,00;5000,00;10000,00;0,00;0,00;0,00
+C2023-05;Project Data migration;€;12;01/03/2014;Speos;20000,00;20000,00;20000,00;32000,00;0,00;0,00;0,00

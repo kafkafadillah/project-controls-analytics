@@ -1,0 +1,13 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2019-09;The Project;€;1;31/07/2019;Completion;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2019-09;The Project;€;1;31/07/2019;Execution;198000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2019-09;The Project;€;1;31/07/2019;Initiation;60000,00;39000,00;39000,00;41500,00;0,00;0,00;0,00
+C2019-09;The Project;€;1;31/07/2019;Planning;4000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2019-09;The Project;€;2;30/09/2019;Completion;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2019-09;The Project;€;2;30/09/2019;Execution;198000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2019-09;The Project;€;2;30/09/2019;Initiation;60000,00;56000,00;56000,00;59500,00;0,00;0,00;0,00
+C2019-09;The Project;€;2;30/09/2019;Planning;4000,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2019-09;The Project;€;3;29/11/2019;Completion;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2019-09;The Project;€;3;29/11/2019;Execution;198000,00;30000,00;30000,00;40000,00;0,00;0,00;0,00
+C2019-09;The Project;€;3;29/11/2019;Initiation;60000,00;60000,00;60000,00;68500,00;0,00;0,00;0,00
+C2019-09;The Project;€;3;29/11/2019;Planning;4000,00;4000,00;4000,00;5000,00;0,00;0,00;0,00

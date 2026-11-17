@@ -1,0 +1,43 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2015-27;Railway Station Antwerp;€;1;10/02/2014;aanpassing magazijn B-MO niv. +0;3131,52;1565,76;1304,80;1826,72;104,00;40,00;56,00
+C2015-27;Railway Station Antwerp;€;1;10/02/2014;herstellingswerken restaurant;782,88;0,00;0,00;0,00;24,00;0,00;0,00
+C2015-27;Railway Station Antwerp;€;1;10/02/2014;lok. 211;6002,08;0,00;0,00;0,00;184,00;0,00;0,00
+C2015-27;Railway Station Antwerp;€;1;10/02/2014;portiersloge;1043,84;0,00;0,00;0,00;32,00;0,00;0,00
+C2015-27;Railway Station Antwerp;€;1;10/02/2014;renovatie toiletten VOO +1;3914,40;0,00;0,00;0,00;176,00;0,00;0,00
+C2015-27;Railway Station Antwerp;€;1;10/02/2014;travel center;2870,56;0,00;0,00;0,00;176,00;0,00;0,00
+C2015-27;Railway Station Antwerp;€;1;10/02/2014;zaal Andries;4958,24;2870,56;2411,27;3392,48;376,00;221,76;312,00
+C2015-27;Railway Station Antwerp;€;2;24/02/2014;aanpassing magazijn B-MO niv. +0;3131,52;3131,52;2899,56;3653,44;104,00;89,78;120,00
+C2015-27;Railway Station Antwerp;€;2;24/02/2014;herstellingswerken restaurant;782,88;0,00;0,00;0,00;24,00;0,00;0,00
+C2015-27;Railway Station Antwerp;€;2;24/02/2014;lok. 211;6002,08;0,00;0,00;0,00;184,00;0,00;0,00
+C2015-27;Railway Station Antwerp;€;2;24/02/2014;portiersloge;1043,84;0,00;0,00;0,00;32,00;0,00;0,00
+C2015-27;Railway Station Antwerp;€;2;24/02/2014;renovatie toiletten VOO +1;3914,40;0,00;0,00;0,00;176,00;0,00;0,00
+C2015-27;Railway Station Antwerp;€;2;24/02/2014;travel center;2870,56;1565,76;0,00;0,00;176,00;0,00;0,00
+C2015-27;Railway Station Antwerp;€;2;24/02/2014;zaal Andries;4958,24;3653,44;3112,19;6002,08;376,00;286,22;552,00
+C2015-27;Railway Station Antwerp;€;3;10/03/2014;aanpassing magazijn B-MO niv. +0;3131,52;3131,52;3131,52;5741,12;104,00;104,00;248,00
+C2015-27;Railway Station Antwerp;€;3;10/03/2014;herstellingswerken restaurant;782,88;260,96;260,96;260,96;24,00;8,00;8,00
+C2015-27;Railway Station Antwerp;€;3;10/03/2014;lok. 211;6002,08;0,00;0,00;0,00;184,00;0,00;0,00
+C2015-27;Railway Station Antwerp;€;3;10/03/2014;portiersloge;1043,84;0,00;0,00;0,00;32,00;0,00;0,00
+C2015-27;Railway Station Antwerp;€;3;10/03/2014;renovatie toiletten VOO +1;3914,40;0,00;0,00;0,00;176,00;0,00;0,00
+C2015-27;Railway Station Antwerp;€;3;10/03/2014;travel center;2870,56;2870,56;318,95;260,96;176,00;19,56;16,00
+C2015-27;Railway Station Antwerp;€;3;10/03/2014;zaal Andries;4958,24;3653,44;3653,44;6002,08;376,00;336,00;552,00
+C2015-27;Railway Station Antwerp;€;4;31/03/2014;aanpassing magazijn B-MO niv. +0;3131,52;3131,52;3131,52;5741,12;104,00;104,00;248,00
+C2015-27;Railway Station Antwerp;€;4;31/03/2014;herstellingswerken restaurant;782,88;782,88;782,88;782,88;24,00;24,00;24,00
+C2015-27;Railway Station Antwerp;€;4;31/03/2014;lok. 211;6002,08;6002,08;6002,08;5219,20;184,00;184,00;160,00
+C2015-27;Railway Station Antwerp;€;4;31/03/2014;portiersloge;1043,84;1043,84;1043,84;1304,80;32,00;32,00;40,00
+C2015-27;Railway Station Antwerp;€;4;31/03/2014;renovatie toiletten VOO +1;3914,40;0,00;0,00;0,00;176,00;0,00;0,00
+C2015-27;Railway Station Antwerp;€;4;31/03/2014;travel center;2870,56;2870,56;2870,56;2609,60;176,00;176,00;160,00
+C2015-27;Railway Station Antwerp;€;4;31/03/2014;zaal Andries;4958,24;4958,24;4958,24;6263,04;376,00;376,00;560,00
+C2015-27;Railway Station Antwerp;€;5;13/05/2014;aanpassing magazijn B-MO niv. +0;3131,52;3131,52;3131,52;5741,12;104,00;104,00;248,00
+C2015-27;Railway Station Antwerp;€;5;13/05/2014;herstellingswerken restaurant;782,88;782,88;782,88;782,88;24,00;24,00;24,00
+C2015-27;Railway Station Antwerp;€;5;13/05/2014;lok. 211;6002,08;6002,08;6002,08;5219,20;184,00;184,00;160,00
+C2015-27;Railway Station Antwerp;€;5;13/05/2014;portiersloge;1043,84;1043,84;1043,84;1304,80;32,00;32,00;40,00
+C2015-27;Railway Station Antwerp;€;5;13/05/2014;renovatie toiletten VOO +1;3914,40;3914,40;1858,77;1859,34;176,00;112,98;113,00
+C2015-27;Railway Station Antwerp;€;5;13/05/2014;travel center;2870,56;2870,56;2870,56;2609,60;176,00;176,00;160,00
+C2015-27;Railway Station Antwerp;€;5;13/05/2014;zaal Andries;4958,24;4958,24;4958,24;6263,04;376,00;376,00;560,00
+C2015-27;Railway Station Antwerp;€;6;20/05/2014;aanpassing magazijn B-MO niv. +0;3131,52;3131,52;3131,52;5741,12;104,00;104,00;248,00
+C2015-27;Railway Station Antwerp;€;6;20/05/2014;herstellingswerken restaurant;782,88;782,88;782,88;782,88;24,00;24,00;24,00
+C2015-27;Railway Station Antwerp;€;6;20/05/2014;lok. 211;6002,08;6002,08;6002,08;5219,20;184,00;184,00;160,00
+C2015-27;Railway Station Antwerp;€;6;20/05/2014;portiersloge;1043,84;1043,84;1043,84;1304,80;32,00;32,00;40,00
+C2015-27;Railway Station Antwerp;€;6;20/05/2014;renovatie toiletten VOO +1;3914,40;3914,40;3914,40;3392,48;176,00;176,00;160,00
+C2015-27;Railway Station Antwerp;€;6;20/05/2014;travel center;2870,56;2870,56;2870,56;2609,60;176,00;176,00;160,00
+C2015-27;Railway Station Antwerp;€;6;20/05/2014;zaal Andries;4958,24;4958,24;4958,24;6263,04;376,00;376,00;560,00

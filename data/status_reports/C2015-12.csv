@@ -1,0 +1,19 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2015-12;Premium Payment System;€;1;24/02/2014;analysis;22200,00;16575,00;4374,75;5475,00;296,00;58,33;73,00
+C2015-12;Premium Payment System;€;1;24/02/2014;design;29175,00;5400,00;3966,00;5100,00;389,00;52,88;68,00
+C2015-12;Premium Payment System;€;1;24/02/2014;development;25800,00;8925,00;8272,50;225,00;344,00;110,30;3,00
+C2015-12;Premium Payment System;€;1;24/02/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-12;Premium Payment System;€;1;24/02/2014;supporting tasks;44145,00;34725,00;11432,55;3195,00;536,00;139,81;40,00
+C2015-12;Premium Payment System;€;1;24/02/2014;test ict;11250,00;0,00;0,00;0,00;150,00;0,00;0,00
+C2015-12;Premium Payment System;€;2;31/03/2014;analysis;22200,00;22200,00;19516,50;18525,00;296,00;260,22;247,00
+C2015-12;Premium Payment System;€;2;31/03/2014;design;29175,00;20925,00;16113,75;15825,00;389,00;214,85;211,00
+C2015-12;Premium Payment System;€;2;31/03/2014;development;25800,00;16125,00;17250,00;3375,00;344,00;230,00;45,00
+C2015-12;Premium Payment System;€;2;31/03/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-12;Premium Payment System;€;2;31/03/2014;supporting tasks;44145,00;44145,00;39078,45;10110,00;536,00;478,44;126,00
+C2015-12;Premium Payment System;€;2;31/03/2014;test ict;11250,00;0,00;0,00;0,00;150,00;0,00;0,00
+C2015-12;Premium Payment System;€;3;13/10/2014;analysis;22200,00;22200,00;22200,00;20700,00;296,00;296,00;276,00
+C2015-12;Premium Payment System;€;3;13/10/2014;design;29175,00;29175,00;29175,00;20700,00;389,00;389,00;276,00
+C2015-12;Premium Payment System;€;3;13/10/2014;development;25800,00;25800,00;25800,00;3675,00;344,00;344,00;49,00
+C2015-12;Premium Payment System;€;3;13/10/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-12;Premium Payment System;€;3;13/10/2014;supporting tasks;44145,00;44145,00;44145,00;11910,00;536,00;536,00;148,00
+C2015-12;Premium Payment System;€;3;13/10/2014;test ict;11250,00;11250,00;11250,00;1425,00;150,00;150,00;19,00

@@ -1,0 +1,43 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2015-16;Generic Document Output System;€;1;05/08/2013;UAT;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-16;Generic Document Output System;€;1;05/08/2013;analysis;6060,00;5700,00;1227,00;2130,00;79,00;15,96;28,00
+C2015-16;Generic Document Output System;€;1;05/08/2013;design;9150,00;0,00;0,00;0,00;122,00;0,00;0,00
+C2015-16;Generic Document Output System;€;1;05/08/2013;development;36150,00;0,00;0,00;0,00;482,00;0,00;0,00
+C2015-16;Generic Document Output System;€;1;05/08/2013;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-16;Generic Document Output System;€;1;05/08/2013;supporting tasks;9660,00;0,00;0,00;0,00;113,00;0,00;0,00
+C2015-16;Generic Document Output System;€;1;05/08/2013;test ict;3600,00;0,00;0,00;0,00;48,00;0,00;0,00
+C2015-16;Generic Document Output System;€;2;23/12/2013;UAT;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-16;Generic Document Output System;€;2;23/12/2013;analysis;6060,00;5700,00;1972,50;3000,00;79,00;25,30;39,00
+C2015-16;Generic Document Output System;€;2;23/12/2013;design;9150,00;0,00;0,00;0,00;122,00;0,00;0,00
+C2015-16;Generic Document Output System;€;2;23/12/2013;development;36150,00;0,00;0,00;0,00;482,00;0,00;0,00
+C2015-16;Generic Document Output System;€;2;23/12/2013;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-16;Generic Document Output System;€;2;23/12/2013;supporting tasks;9660,00;4050,00;243,00;360,00;113,00;2,70;4,00
+C2015-16;Generic Document Output System;€;2;23/12/2013;test ict;3600,00;0,00;0,00;0,00;48,00;0,00;0,00
+C2015-16;Generic Document Output System;€;3;03/02/2014;UAT;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-16;Generic Document Output System;€;3;03/02/2014;analysis;6060,00;6060,00;2793,75;4635,00;79,00;35,69;60,00
+C2015-16;Generic Document Output System;€;3;03/02/2014;design;9150,00;9150,00;1233,75;2250,00;122,00;16,45;30,00
+C2015-16;Generic Document Output System;€;3;03/02/2014;development;36150,00;13800,00;9180,00;3375,00;482,00;122,40;45,00
+C2015-16;Generic Document Output System;€;3;03/02/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-16;Generic Document Output System;€;3;03/02/2014;supporting tasks;9660,00;4050,00;891,00;1170,00;113,00;9,90;13,00
+C2015-16;Generic Document Output System;€;3;03/02/2014;test ict;3600,00;0,00;0,00;0,00;48,00;0,00;0,00
+C2015-16;Generic Document Output System;€;4;03/03/2014;UAT;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-16;Generic Document Output System;€;4;03/03/2014;analysis;6060,00;6060,00;3489,00;6135,00;79,00;44,96;80,00
+C2015-16;Generic Document Output System;€;4;03/03/2014;design;9150,00;9150,00;4456,50;8100,00;122,00;59,42;108,00
+C2015-16;Generic Document Output System;€;4;03/03/2014;development;36150,00;31425,00;19320,00;12225,00;482,00;257,60;163,00
+C2015-16;Generic Document Output System;€;4;03/03/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-16;Generic Document Output System;€;4;03/03/2014;supporting tasks;9660,00;4050,00;3429,00;3840,00;113,00;41,67;46,00
+C2015-16;Generic Document Output System;€;4;03/03/2014;test ict;3600,00;750,00;112,50;225,00;48,00;1,50;3,00
+C2015-16;Generic Document Output System;€;5;07/04/2014;UAT;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-16;Generic Document Output System;€;5;07/04/2014;analysis;6060,00;6060,00;5983,50;10275,00;79,00;77,98;135,00
+C2015-16;Generic Document Output System;€;5;07/04/2014;design;9150,00;9150,00;8464,50;15975,00;122,00;112,86;213,00
+C2015-16;Generic Document Output System;€;5;07/04/2014;development;36150,00;36150,00;34275,00;23700,00;482,00;457,00;316,00
+C2015-16;Generic Document Output System;€;5;07/04/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-16;Generic Document Output System;€;5;07/04/2014;supporting tasks;9660,00;9660,00;8469,30;8250,00;113,00;99,77;97,00
+C2015-16;Generic Document Output System;€;5;07/04/2014;test ict;3600,00;3600,00;1582,50;1800,00;48,00;21,10;24,00
+C2015-16;Generic Document Output System;€;6;12/05/2014;UAT;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-16;Generic Document Output System;€;6;12/05/2014;analysis;6060,00;6060,00;6060,00;10500,00;79,00;79,00;138,00
+C2015-16;Generic Document Output System;€;6;12/05/2014;design;9150,00;9150,00;9150,00;17325,00;122,00;122,00;231,00
+C2015-16;Generic Document Output System;€;6;12/05/2014;development;36150,00;36150,00;36150,00;24450,00;482,00;482,00;326,00
+C2015-16;Generic Document Output System;€;6;12/05/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-16;Generic Document Output System;€;6;12/05/2014;supporting tasks;9660,00;9660,00;9660,00;9150,00;113,00;113,00;107,00
+C2015-16;Generic Document Output System;€;6;12/05/2014;test ict;3600,00;3600,00;3600,00;2700,00;48,00;48,00;36,00

@@ -1,0 +1,137 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2016-08;SCM System;€;1;01/11/2010;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;1;01/11/2010;Phase 1: Global Analysis and Analysis Early Validation;118445,88;12375,00;6000,00;6000,00;0,00;0,00;0,00
+C2016-08;SCM System;€;1;01/11/2010;Phase 3: Full Implementation of DRP and Master Planning;191673,69;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;1;01/11/2010;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;2;06/12/2010;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;2;06/12/2010;Phase 1: Global Analysis and Analysis Early Validation;118445,88;44791,66;14166,66;19791,66;0,00;0,00;0,00
+C2016-08;SCM System;€;2;06/12/2010;Phase 3: Full Implementation of DRP and Master Planning;191673,69;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;2;06/12/2010;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;3;03/01/2011;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;3;03/01/2011;Phase 1: Global Analysis and Analysis Early Validation;118445,88;64480,00;29500,00;46500,00;0,00;0,00;0,00
+C2016-08;SCM System;€;3;03/01/2011;Phase 3: Full Implementation of DRP and Master Planning;191673,69;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;3;03/01/2011;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;4;07/02/2011;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;4;07/02/2011;Phase 1: Global Analysis and Analysis Early Validation;118445,88;94963,52;47500,00;72500,00;0,00;0,00;0,00
+C2016-08;SCM System;€;4;07/02/2011;Phase 3: Full Implementation of DRP and Master Planning;191673,69;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;4;07/02/2011;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;5;07/03/2011;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;5;07/03/2011;Phase 1: Global Analysis and Analysis Early Validation;118445,88;113121,24;64480,00;89480,00;0,00;0,00;0,00
+C2016-08;SCM System;€;5;07/03/2011;Phase 3: Full Implementation of DRP and Master Planning;191673,69;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;5;07/03/2011;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;6;04/04/2011;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;6;04/04/2011;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;89663,56;115366,81;0,00;0,00;0,00
+C2016-08;SCM System;€;6;04/04/2011;Phase 3: Full Implementation of DRP and Master Planning;191673,69;15326,47;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;6;04/04/2011;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;7;02/05/2011;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;7;02/05/2011;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;114751,02;145024,54;0,00;0,00;0,00
+C2016-08;SCM System;€;7;02/05/2011;Phase 3: Full Implementation of DRP and Master Planning;191673,69;34557,36;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;7;02/05/2011;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;8;06/06/2011;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;8;06/06/2011;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;8;06/06/2011;Phase 3: Full Implementation of DRP and Master Planning;191673,69;52324,62;15959,25;18386,03;0,00;0,00;0,00
+C2016-08;SCM System;€;8;06/06/2011;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;9;04/07/2011;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;9;04/07/2011;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;9;04/07/2011;Phase 3: Full Implementation of DRP and Master Planning;191673,69;60582,71;27107,36;39594,86;0,00;0,00;0,00
+C2016-08;SCM System;€;9;04/07/2011;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;10;01/08/2011;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;10;01/08/2011;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;10;01/08/2011;Phase 3: Full Implementation of DRP and Master Planning;191673,69;69674,13;35107,36;52344,86;0,00;0,00;0,00
+C2016-08;SCM System;€;10;01/08/2011;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;11;05/09/2011;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;11;05/09/2011;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;11;05/09/2011;Phase 3: Full Implementation of DRP and Master Planning;191673,69;77392,57;38776,92;58480,97;0,00;0,00;0,00
+C2016-08;SCM System;€;11;05/09/2011;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;12;03/10/2011;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;12;03/10/2011;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;12;03/10/2011;Phase 3: Full Implementation of DRP and Master Planning;191673,69;86567,32;42205,17;63192,08;0,00;0,00;0,00
+C2016-08;SCM System;€;12;03/10/2011;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;13;07/11/2011;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;13;07/11/2011;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;13;07/11/2011;Phase 3: Full Implementation of DRP and Master Planning;191673,69;101480,78;47463,98;78955,98;0,00;0,00;0,00
+C2016-08;SCM System;€;13;07/11/2011;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;14;05/12/2011;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;14;05/12/2011;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;14;05/12/2011;Phase 3: Full Implementation of DRP and Master Planning;191673,69;105388,86;52148,75;92997,10;0,00;0,00;0,00
+C2016-08;SCM System;€;14;05/12/2011;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;15;02/01/2012;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;15;02/01/2012;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;15;02/01/2012;Phase 3: Full Implementation of DRP and Master Planning;191673,69;108810,84;58327,01;100041,55;0,00;0,00;0,00
+C2016-08;SCM System;€;15;02/01/2012;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;16;06/02/2012;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;16;06/02/2012;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;16;06/02/2012;Phase 3: Full Implementation of DRP and Master Planning;191673,69;111136,69;62612,33;107222,11;0,00;0,00;0,00
+C2016-08;SCM System;€;16;06/02/2012;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;17;05/03/2012;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;17;05/03/2012;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;17;05/03/2012;Phase 3: Full Implementation of DRP and Master Planning;191673,69;123798,48;65873,91;112766,56;0,00;0,00;0,00
+C2016-08;SCM System;€;17;05/03/2012;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;18;02/04/2012;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;18;02/04/2012;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;18;02/04/2012;Phase 3: Full Implementation of DRP and Master Planning;191673,69;136539,90;71321,74;119659,19;0,00;0,00;0,00
+C2016-08;SCM System;€;18;02/04/2012;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;19;07/05/2012;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;19;07/05/2012;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;19;07/05/2012;Phase 3: Full Implementation of DRP and Master Planning;191673,69;147943,64;91170,55;133108,73;0,00;0,00;0,00
+C2016-08;SCM System;€;19;07/05/2012;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;20;04/06/2012;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;20;04/06/2012;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;20;04/06/2012;Phase 3: Full Implementation of DRP and Master Planning;191673,69;154721,42;91784,31;133627,93;0,00;0,00;0,00
+C2016-08;SCM System;€;20;04/06/2012;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;21;02/07/2012;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;21;02/07/2012;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;21;02/07/2012;Phase 3: Full Implementation of DRP and Master Planning;191673,69;158249,19;96228,76;138072,38;0,00;0,00;0,00
+C2016-08;SCM System;€;21;02/07/2012;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;22;06/08/2012;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;22;06/08/2012;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;22;06/08/2012;Phase 3: Full Implementation of DRP and Master Planning;191673,69;173679,38;110481,12;151755,29;0,00;0,00;0,00
+C2016-08;SCM System;€;22;06/08/2012;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;23;03/09/2012;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;23;03/09/2012;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;23;03/09/2012;Phase 3: Full Implementation of DRP and Master Planning;191673,69;180109,00;130130,11;168366,00;0,00;0,00;0,00
+C2016-08;SCM System;€;23;03/09/2012;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;24;01/10/2012;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;24;01/10/2012;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;24;01/10/2012;Phase 3: Full Implementation of DRP and Master Planning;191673,69;183220,76;147296,81;183877,51;0,00;0,00;0,00
+C2016-08;SCM System;€;24;01/10/2012;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;25;05/11/2012;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;25;05/11/2012;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;25;05/11/2012;Phase 3: Full Implementation of DRP and Master Planning;191673,69;186285,46;168672,34;202043,99;0,00;0,00;0,00
+C2016-08;SCM System;€;25;05/11/2012;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;26;03/12/2012;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;26;03/12/2012;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;26;03/12/2012;Phase 3: Full Implementation of DRP and Master Planning;191673,69;187447,22;182232,30;213597,17;0,00;0,00;0,00
+C2016-08;SCM System;€;26;03/12/2012;Phase 4: Implementation of S&OP Planning;65133,78;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;27;07/01/2013;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;27;07/01/2013;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;27;07/01/2013;Phase 3: Full Implementation of DRP and Master Planning;191673,69;191673,69;190375,67;221819,82;0,00;0,00;0,00
+C2016-08;SCM System;€;27;07/01/2013;Phase 4: Implementation of S&OP Planning;65133,78;3500,00;3500,00;3500,00;0,00;0,00;0,00
+C2016-08;SCM System;€;28;04/02/2013;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;28;04/02/2013;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;28;04/02/2013;Phase 3: Full Implementation of DRP and Master Planning;191673,69;191673,69;191077,30;222597,60;0,00;0,00;0,00
+C2016-08;SCM System;€;28;04/02/2013;Phase 4: Implementation of S&OP Planning;65133,78;12784,38;12784,38;12784,38;0,00;0,00;0,00
+C2016-08;SCM System;€;29;04/03/2013;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;29;04/03/2013;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;29;04/03/2013;Phase 3: Full Implementation of DRP and Master Planning;191673,69;191673,69;191673,69;223258,71;0,00;0,00;0,00
+C2016-08;SCM System;€;29;04/03/2013;Phase 4: Implementation of S&OP Planning;65133,78;21921,88;21921,88;21921,88;0,00;0,00;0,00
+C2016-08;SCM System;€;30;01/04/2013;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;30;01/04/2013;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;30;01/04/2013;Phase 3: Full Implementation of DRP and Master Planning;191673,69;191673,69;191673,69;223258,71;0,00;0,00;0,00
+C2016-08;SCM System;€;30;01/04/2013;Phase 4: Implementation of S&OP Planning;65133,78;31059,38;31059,38;31059,38;0,00;0,00;0,00
+C2016-08;SCM System;€;31;06/05/2013;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;31;06/05/2013;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;31;06/05/2013;Phase 3: Full Implementation of DRP and Master Planning;191673,69;191673,69;191673,69;223258,71;0,00;0,00;0,00
+C2016-08;SCM System;€;31;06/05/2013;Phase 4: Implementation of S&OP Planning;65133,78;42481,27;42481,27;42481,27;0,00;0,00;0,00
+C2016-08;SCM System;€;32;03/06/2013;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;32;03/06/2013;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;32;03/06/2013;Phase 3: Full Implementation of DRP and Master Planning;191673,69;191673,69;191673,69;223258,71;0,00;0,00;0,00
+C2016-08;SCM System;€;32;03/06/2013;Phase 4: Implementation of S&OP Planning;65133,78;53618,77;53618,77;53618,77;0,00;0,00;0,00
+C2016-08;SCM System;€;33;01/07/2013;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;33;01/07/2013;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;33;01/07/2013;Phase 3: Full Implementation of DRP and Master Planning;191673,69;191673,69;191673,69;223258,71;0,00;0,00;0,00
+C2016-08;SCM System;€;33;01/07/2013;Phase 4: Implementation of S&OP Planning;65133,78;61756,28;61756,28;61756,28;0,00;0,00;0,00
+C2016-08;SCM System;€;34;05/08/2013;(tanpa grup);0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2016-08;SCM System;€;34;05/08/2013;Phase 1: Global Analysis and Analysis Early Validation;118445,88;118445,88;118445,88;150349,18;0,00;0,00;0,00
+C2016-08;SCM System;€;34;05/08/2013;Phase 3: Full Implementation of DRP and Master Planning;191673,69;191673,69;191673,69;223258,71;0,00;0,00;0,00
+C2016-08;SCM System;€;34;05/08/2013;Phase 4: Implementation of S&OP Planning;65133,78;65133,78;65133,78;65133,78;0,00;0,00;0,00

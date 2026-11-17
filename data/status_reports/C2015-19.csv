@@ -1,0 +1,29 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2015-19;Receipt Numbering System;€;1;18/11/2013;analysis;750,00;750,00;225,00;225,00;10,00;3,00;3,00
+C2015-19;Receipt Numbering System;€;1;18/11/2013;design;9825,00;0,00;0,00;0,00;131,00;0,00;0,00
+C2015-19;Receipt Numbering System;€;1;18/11/2013;development;16875,00;0,00;375,00;375,00;225,00;5,00;5,00
+C2015-19;Receipt Numbering System;€;1;18/11/2013;development bugfixing;2250,00;0,00;0,00;0,00;30,00;0,00;0,00
+C2015-19;Receipt Numbering System;€;1;18/11/2013;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-19;Receipt Numbering System;€;1;18/11/2013;post implementation;2325,00;0,00;0,00;0,00;31,00;0,00;0,00
+C2015-19;Receipt Numbering System;€;1;18/11/2013;supporting tasks;11775,00;4950,00;715,50;435,00;146,00;8,11;5,00
+C2015-19;Receipt Numbering System;€;2;13/01/2014;analysis;750,00;750,00;450,00;450,00;10,00;6,00;6,00
+C2015-19;Receipt Numbering System;€;2;13/01/2014;design;9825,00;9825,00;4609,50;4725,00;131,00;61,46;63,00
+C2015-19;Receipt Numbering System;€;2;13/01/2014;development;16875,00;16875,00;3933,00;4125,00;225,00;52,44;55,00
+C2015-19;Receipt Numbering System;€;2;13/01/2014;development bugfixing;2250,00;0,00;0,00;0,00;30,00;0,00;0,00
+C2015-19;Receipt Numbering System;€;2;13/01/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-19;Receipt Numbering System;€;2;13/01/2014;post implementation;2325,00;0,00;0,00;0,00;31,00;0,00;0,00
+C2015-19;Receipt Numbering System;€;2;13/01/2014;supporting tasks;11775,00;11775,00;5580,00;3975,00;146,00;69,12;50,00
+C2015-19;Receipt Numbering System;€;3;17/03/2014;analysis;750,00;750,00;750,00;750,00;10,00;10,00;10,00
+C2015-19;Receipt Numbering System;€;3;17/03/2014;design;9825,00;9825,00;9825,00;10200,00;131,00;131,00;136,00
+C2015-19;Receipt Numbering System;€;3;17/03/2014;development;16875,00;16875,00;16875,00;17475,00;225,00;225,00;233,00
+C2015-19;Receipt Numbering System;€;3;17/03/2014;development bugfixing;2250,00;0,00;0,00;0,00;30,00;0,00;0,00
+C2015-19;Receipt Numbering System;€;3;17/03/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-19;Receipt Numbering System;€;3;17/03/2014;post implementation;2325,00;0,00;0,00;0,00;31,00;0,00;0,00
+C2015-19;Receipt Numbering System;€;3;17/03/2014;supporting tasks;11775,00;11775,00;9540,00;6045,00;146,00;117,30;75,00
+C2015-19;Receipt Numbering System;€;4;12/05/2014;analysis;750,00;750,00;750,00;750,00;10,00;10,00;10,00
+C2015-19;Receipt Numbering System;€;4;12/05/2014;design;9825,00;9825,00;9825,00;10200,00;131,00;131,00;136,00
+C2015-19;Receipt Numbering System;€;4;12/05/2014;development;16875,00;16875,00;16875,00;17475,00;225,00;225,00;233,00
+C2015-19;Receipt Numbering System;€;4;12/05/2014;development bugfixing;2250,00;2250,00;2250,00;825,00;30,00;30,00;11,00
+C2015-19;Receipt Numbering System;€;4;12/05/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-19;Receipt Numbering System;€;4;12/05/2014;post implementation;2325,00;1800,00;2325,00;1800,00;31,00;31,00;24,00
+C2015-19;Receipt Numbering System;€;4;12/05/2014;supporting tasks;11775,00;11775,00;10050,00;6480,00;146,00;123,00;80,00

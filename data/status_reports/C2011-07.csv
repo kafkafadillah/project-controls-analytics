@@ -1,0 +1,438 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2011-07;Patient Transport System;€;1;28/01/2010;Creation code list;5476,16;0,00;0,00;0,00;232,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Decision supplier;6334,08;0,00;0,00;0,00;152,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Description of staff's needs & Set-up;5512,64;5262,40;5262,40;5262,40;190,00;182,00;182,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Draw up & Sign contract with supplier DACS;18493,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Draw up & Sign contract with supplier transport system;55373,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Fill the database;2502,40;0,00;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Final check program;1355,04;0,00;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Installation;5303,04;0,00;0,00;0,00;192,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Kick-off Meeting;6408,00;0,00;0,00;0,00;206,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Meeting ICT Committee;2478,88;0,00;0,00;0,00;54,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Negociation conditions DACS;2235,08;0,00;0,00;0,00;60,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Negociation conditions final supplier transport system;3115,12;0,00;0,00;0,00;72,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Request proposal supplier DACS;3460,80;0,00;0,00;0,00;120,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Request proposal suppliers transport system;3225,60;0,00;0,00;0,00;76,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Set-up format specifications;2193,60;0,00;0,00;0,00;72,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Training PC;3250,72;0,00;0,00;0,00;24,00;0,00;0,00
+C2011-07;Patient Transport System;€;1;28/01/2010;Training staff;44101,12;0,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Creation code list;5476,16;0,00;0,00;0,00;232,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Decision supplier;6334,08;0,00;0,00;0,00;152,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Description of staff's needs & Set-up;5512,64;5262,40;5262,40;5262,40;190,00;182,00;182,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Draw up & Sign contract with supplier DACS;18493,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Draw up & Sign contract with supplier transport system;55373,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Fill the database;2502,40;0,00;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Final check program;1355,04;0,00;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Installation;5303,04;0,00;0,00;0,00;192,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Kick-off Meeting;6408,00;0,00;0,00;0,00;206,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Meeting ICT Committee;2478,88;0,00;0,00;0,00;54,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Negociation conditions DACS;2235,08;0,00;0,00;0,00;60,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Negociation conditions final supplier transport system;3115,12;0,00;0,00;0,00;72,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Request proposal supplier DACS;3460,80;0,00;0,00;0,00;120,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Request proposal suppliers transport system;3225,60;0,00;0,00;0,00;76,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Set-up format specifications;2193,60;0,00;0,00;0,00;72,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Training PC;3250,72;0,00;0,00;0,00;24,00;0,00;0,00
+C2011-07;Patient Transport System;€;2;25/02/2010;Training staff;44101,12;0,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Creation code list;5476,16;0,00;0,00;0,00;232,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Decision supplier;6334,08;0,00;0,00;0,00;152,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Draw up & Sign contract with supplier DACS;18493,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Draw up & Sign contract with supplier transport system;55373,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Fill the database;2502,40;0,00;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Final check program;1355,04;0,00;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Installation;5303,04;0,00;0,00;0,00;192,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Kick-off Meeting;6408,00;0,00;0,00;0,00;206,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Negociation conditions DACS;2235,08;0,00;0,00;0,00;60,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Negociation conditions final supplier transport system;3115,12;0,00;0,00;0,00;72,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Request proposal supplier DACS;3460,80;0,00;0,00;0,00;120,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Request proposal suppliers transport system;3225,60;0,00;0,00;0,00;76,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Set-up format specifications;2193,60;1442,88;1442,88;2164,32;72,00;48,00;72,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Training PC;3250,72;0,00;0,00;0,00;24,00;0,00;0,00
+C2011-07;Patient Transport System;€;3;25/03/2010;Training staff;44101,12;0,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Creation code list;5476,16;0,00;0,00;0,00;232,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Decision supplier;6334,08;0,00;0,00;0,00;152,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Draw up & Sign contract with supplier DACS;18493,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Draw up & Sign contract with supplier transport system;55373,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Fill the database;2502,40;0,00;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Final check program;1355,04;0,00;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Installation;5303,04;0,00;0,00;0,00;192,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Kick-off Meeting;6408,00;0,00;0,00;0,00;206,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Negociation conditions DACS;2235,08;0,00;0,00;0,00;60,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Negociation conditions final supplier transport system;3115,12;0,00;0,00;0,00;72,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Request proposal supplier DACS;3460,80;0,00;0,00;0,00;120,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Request proposal suppliers transport system;3225,60;750,72;750,72;750,72;76,00;24,00;24,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Training PC;3250,72;0,00;0,00;0,00;24,00;0,00;0,00
+C2011-07;Patient Transport System;€;4;22/04/2010;Training staff;44101,12;0,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Creation code list;5476,16;0,00;0,00;0,00;232,00;0,00;0,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Decision supplier;6334,08;0,00;0,00;0,00;152,00;0,00;0,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Draw up & Sign contract with supplier DACS;18493,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Draw up & Sign contract with supplier transport system;55373,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Fill the database;2502,40;0,00;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Final check program;1355,04;0,00;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Installation;5303,04;0,00;0,00;0,00;192,00;0,00;0,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Kick-off Meeting;6408,00;0,00;0,00;0,00;206,00;0,00;0,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Negociation conditions DACS;2235,08;0,00;0,00;0,00;60,00;0,00;0,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Negociation conditions final supplier transport system;3115,12;0,00;0,00;0,00;72,00;0,00;0,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Training PC;3250,72;0,00;0,00;0,00;24,00;0,00;0,00
+C2011-07;Patient Transport System;€;5;20/05/2010;Training staff;44101,12;0,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Creation code list;5476,16;0,00;0,00;0,00;232,00;0,00;0,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Decision supplier;6334,08;750,72;750,72;1000,96;152,00;24,00;32,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Draw up & Sign contract with supplier DACS;18493,52;18493,52;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Draw up & Sign contract with supplier transport system;55373,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Fill the database;2502,40;0,00;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Final check program;1355,04;0,00;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Installation;5303,04;0,00;0,00;0,00;192,00;0,00;0,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Kick-off Meeting;6408,00;0,00;0,00;0,00;206,00;0,00;0,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Negociation conditions DACS;2235,08;2235,08;0,00;0,00;60,00;0,00;0,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Negociation conditions final supplier transport system;3115,12;0,00;0,00;0,00;72,00;0,00;0,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Training PC;3250,72;0,00;0,00;0,00;24,00;0,00;0,00
+C2011-07;Patient Transport System;€;6;17/06/2010;Training staff;44101,12;0,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Creation code list;5476,16;0,00;0,00;0,00;232,00;0,00;0,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Decision supplier;6334,08;5583,36;5583,36;5833,60;152,00;128,00;136,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Draw up & Sign contract with supplier DACS;18493,52;18493,52;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Draw up & Sign contract with supplier transport system;55373,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Fill the database;2502,40;0,00;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Final check program;1355,04;0,00;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Installation;5303,04;0,00;0,00;0,00;192,00;0,00;0,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Kick-off Meeting;6408,00;0,00;0,00;0,00;206,00;0,00;0,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Negociation conditions DACS;2235,08;2235,08;0,00;0,00;60,00;0,00;0,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Negociation conditions final supplier transport system;3115,12;0,00;0,00;0,00;72,00;0,00;0,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Training PC;3250,72;0,00;0,00;0,00;24,00;0,00;0,00
+C2011-07;Patient Transport System;€;7;15/07/2010;Training staff;44101,12;0,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Creation code list;5476,16;0,00;0,00;0,00;232,00;0,00;0,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Decision supplier;6334,08;5833,60;5833,60;6334,08;152,00;136,00;152,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Draw up & Sign contract with supplier DACS;18493,52;18493,52;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Draw up & Sign contract with supplier transport system;55373,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Fill the database;2502,40;0,00;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Final check program;1355,04;0,00;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Installation;5303,04;0,00;0,00;0,00;192,00;0,00;0,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Kick-off Meeting;6408,00;0,00;0,00;0,00;206,00;0,00;0,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Negociation conditions DACS;2235,08;2235,08;0,00;0,00;60,00;0,00;0,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Negociation conditions final supplier transport system;3115,12;0,00;0,00;0,00;72,00;0,00;0,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Training PC;3250,72;0,00;0,00;0,00;24,00;0,00;0,00
+C2011-07;Patient Transport System;€;8;12/08/2010;Training staff;44101,12;0,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Creation code list;5476,16;0,00;0,00;0,00;232,00;0,00;0,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Decision supplier;6334,08;5833,60;5833,60;6334,08;152,00;136,00;152,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Draw up & Sign contract with supplier DACS;18493,52;18493,52;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Draw up & Sign contract with supplier transport system;55373,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Fill the database;2502,40;0,00;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Final check program;1355,04;0,00;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Installation;5303,04;0,00;0,00;0,00;192,00;0,00;0,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Kick-off Meeting;6408,00;0,00;0,00;0,00;206,00;0,00;0,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Negociation conditions DACS;2235,08;2235,08;0,00;0,00;60,00;0,00;0,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Negociation conditions final supplier transport system;3115,12;0,00;0,00;0,00;72,00;0,00;0,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Training PC;3250,72;0,00;0,00;0,00;24,00;0,00;0,00
+C2011-07;Patient Transport System;€;9;09/09/2010;Training staff;44101,12;0,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Creation code list;5476,16;0,00;0,00;0,00;232,00;0,00;0,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Decision supplier;6334,08;6334,08;6334,08;6834,56;152,00;152,00;168,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Draw up & Sign contract with supplier DACS;18493,52;18493,52;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Draw up & Sign contract with supplier transport system;55373,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Fill the database;2502,40;0,00;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Final check program;1355,04;0,00;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Installation;5303,04;0,00;0,00;0,00;192,00;0,00;0,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Kick-off Meeting;6408,00;0,00;0,00;0,00;206,00;0,00;0,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Negociation conditions DACS;2235,08;2235,08;0,00;0,00;60,00;0,00;0,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Negociation conditions final supplier transport system;3115,12;750,72;750,72;750,72;72,00;24,00;24,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Training PC;3250,72;0,00;0,00;0,00;24,00;0,00;0,00
+C2011-07;Patient Transport System;€;10;07/10/2010;Training staff;44101,12;0,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Creation code list;5476,16;0,00;0,00;0,00;232,00;0,00;0,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Decision supplier;6334,08;6334,08;6334,08;6834,56;152,00;152,00;168,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Draw up & Sign contract with supplier DACS;18493,52;18493,52;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Draw up & Sign contract with supplier transport system;55373,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Fill the database;2502,40;0,00;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Final check program;1355,04;0,00;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Installation;5303,04;0,00;0,00;0,00;192,00;0,00;0,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Kick-off Meeting;6408,00;0,00;0,00;0,00;206,00;0,00;0,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Negociation conditions DACS;2235,08;2235,08;500,48;500,48;60,00;16,00;16,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Negociation conditions final supplier transport system;3115,12;750,72;750,72;750,72;72,00;24,00;24,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Training PC;3250,72;0,00;0,00;0,00;24,00;0,00;0,00
+C2011-07;Patient Transport System;€;11;04/11/2010;Training staff;44101,12;0,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Creation code list;5476,16;0,00;0,00;0,00;232,00;0,00;0,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Decision supplier;6334,08;6334,08;6334,08;6834,56;152,00;152,00;168,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Draw up & Sign contract with supplier DACS;18493,52;18493,52;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Draw up & Sign contract with supplier transport system;55373,52;0,00;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Fill the database;2502,40;0,00;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Final check program;1355,04;0,00;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Installation;5303,04;0,00;0,00;0,00;192,00;0,00;0,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Kick-off Meeting;6408,00;0,00;0,00;0,00;206,00;0,00;0,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Negociation conditions DACS;2235,08;2235,08;2109,96;2109,96;60,00;56,00;56,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Negociation conditions final supplier transport system;3115,12;2614,64;2614,64;2614,64;72,00;56,00;56,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Training PC;3250,72;0,00;0,00;0,00;24,00;0,00;0,00
+C2011-07;Patient Transport System;€;12;02/12/2010;Training staff;44101,12;0,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Creation code list;5476,16;0,00;0,00;0,00;232,00;0,00;0,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Decision supplier;6334,08;6334,08;6334,08;6834,56;152,00;152,00;168,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Draw up & Sign contract with supplier DACS;18493,52;18493,52;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Draw up & Sign contract with supplier transport system;55373,52;55373,52;0,00;0,00;8,00;0,00;0,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Fill the database;2502,40;0,00;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Final check program;1355,04;0,00;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Installation;5303,04;0,00;0,00;0,00;192,00;0,00;0,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Kick-off Meeting;6408,00;0,00;0,00;0,00;206,00;0,00;0,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Negociation conditions DACS;2235,08;2235,08;2109,96;2109,96;60,00;56,00;56,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Negociation conditions final supplier transport system;3115,12;3115,12;3115,12;3115,12;72,00;72,00;72,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Training PC;3250,72;0,00;0,00;0,00;24,00;0,00;0,00
+C2011-07;Patient Transport System;€;13;30/12/2010;Training staff;44101,12;0,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Creation code list;5476,16;4533,76;4533,76;9067,52;232,00;200,00;400,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Decision supplier;6334,08;6334,08;6334,08;6834,56;152,00;152,00;168,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Draw up & Sign contract with supplier DACS;18493,52;18493,52;18493,52;18493,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Draw up & Sign contract with supplier transport system;55373,52;55373,52;55373,52;55373,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Fill the database;2502,40;1000,96;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Final check program;1355,04;0,00;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Installation;5303,04;5303,04;2651,52;2651,52;192,00;96,00;96,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Kick-off Meeting;6408,00;6408,00;6408,00;6408,00;206,00;206,00;206,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Negociation conditions DACS;2235,08;2235,08;2235,08;2235,08;60,00;60,00;60,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Negociation conditions final supplier transport system;3115,12;3115,12;3115,12;3115,12;72,00;72,00;72,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Training PC;3250,72;2500,48;2500,48;2500,48;24,00;16,00;16,00
+C2011-07;Patient Transport System;€;14;27/01/2011;Training staff;44101,12;0,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Creation code list;5476,16;5476,16;4533,76;9067,52;232,00;200,00;400,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Decision supplier;6334,08;6334,08;6334,08;6834,56;152,00;152,00;168,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Draw up & Sign contract with supplier DACS;18493,52;18493,52;18493,52;18493,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Draw up & Sign contract with supplier transport system;55373,52;55373,52;55373,52;55373,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Fill the database;2502,40;2502,40;0,00;0,00;80,00;0,00;0,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Final check program;1355,04;250,24;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Installation;5303,04;5303,04;2651,52;2651,52;192,00;96,00;96,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Kick-off Meeting;6408,00;6408,00;6408,00;6408,00;206,00;206,00;206,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Live;500,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Negociation conditions DACS;2235,08;2235,08;2235,08;2235,08;60,00;60,00;60,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Negociation conditions final supplier transport system;3115,12;3115,12;3115,12;3115,12;72,00;72,00;72,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Training PC;3250,72;2500,48;2500,48;2500,48;24,00;16,00;16,00
+C2011-07;Patient Transport System;€;15;24/02/2011;Training staff;44101,12;2392,00;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Creation code list;5476,16;5476,16;5476,16;10009,92;232,00;232,00;432,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Decision supplier;6334,08;6334,08;6334,08;6834,56;152,00;152,00;168,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Draw up & Sign contract with supplier DACS;18493,52;18493,52;18493,52;18493,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Draw up & Sign contract with supplier transport system;55373,52;55373,52;55373,52;55373,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Fill the database;2502,40;2502,40;800,77;1000,96;80,00;25,60;32,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Final check program;1355,04;1355,04;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Installation;5303,04;5303,04;4242,43;5303,04;192,00;153,60;192,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Kick-off Meeting;6408,00;6408,00;6408,00;6408,00;206,00;206,00;206,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Live;500,00;500,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Negociation conditions DACS;2235,08;2235,08;2235,08;2235,08;60,00;60,00;60,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Negociation conditions final supplier transport system;3115,12;3115,12;3115,12;3115,12;72,00;72,00;72,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Training PC;3250,72;2500,48;2500,48;2500,48;24,00;16,00;16,00
+C2011-07;Patient Transport System;€;16;24/03/2011;Training staff;44101,12;44101,12;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Creation code list;5476,16;5476,16;5476,16;10009,92;232,00;232,00;432,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Decision supplier;6334,08;6334,08;6334,08;6834,56;152,00;152,00;168,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Draw up & Sign contract with supplier DACS;18493,52;18493,52;18493,52;18493,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Draw up & Sign contract with supplier transport system;55373,52;55373,52;55373,52;55373,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Fill the database;2502,40;2502,40;1429,94;1751,68;80,00;45,71;56,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Final check program;1355,04;1355,04;0,00;0,00;48,00;0,00;0,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Installation;5303,04;5303,04;5303,04;7070,72;192,00;192,00;256,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Kick-off Meeting;6408,00;6408,00;6408,00;6408,00;206,00;206,00;206,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Live;500,00;500,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Negociation conditions DACS;2235,08;2235,08;2235,08;2235,08;60,00;60,00;60,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Negociation conditions final supplier transport system;3115,12;3115,12;3115,12;3115,12;72,00;72,00;72,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Training PC;3250,72;2500,48;2500,48;2500,48;24,00;16,00;16,00
+C2011-07;Patient Transport System;€;17;21/04/2011;Training staff;44101,12;44101,12;0,00;0,00;1520,00;0,00;0,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Creation code list;5476,16;5476,16;5476,16;10009,92;232,00;232,00;432,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Decision supplier;6334,08;6334,08;6334,08;6834,56;152,00;152,00;168,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Draw up & Sign contract with supplier DACS;18493,52;18493,52;18493,52;18493,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Draw up & Sign contract with supplier transport system;55373,52;55373,52;55373,52;55373,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Fill the database;2502,40;2502,40;2502,40;3002,88;80,00;80,00;96,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Final check program;1355,04;1355,04;250,24;250,24;48,00;8,00;8,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Installation;5303,04;5303,04;5303,04;7070,72;192,00;192,00;256,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Kick-off Meeting;6408,00;6408,00;6408,00;6408,00;206,00;206,00;206,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Live;500,00;500,00;0,00;0,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Negociation conditions DACS;2235,08;2235,08;2235,08;2235,08;60,00;60,00;60,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Negociation conditions final supplier transport system;3115,12;3115,12;3115,12;3115,12;72,00;72,00;72,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Training PC;3250,72;2500,48;2500,48;2500,48;24,00;16,00;16,00
+C2011-07;Patient Transport System;€;18;19/05/2011;Training staff;44101,12;44101,12;44101,12;44101,12;1520,00;1520,00;1520,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Creation code list;5476,16;5476,16;5476,16;10009,92;232,00;232,00;432,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Decision supplier;6334,08;6334,08;6334,08;6834,56;152,00;152,00;168,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Draw up & Sign contract with supplier DACS;18493,52;18493,52;18493,52;18493,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Draw up & Sign contract with supplier transport system;55373,52;55373,52;55373,52;55373,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Evaluation;9440,12;0,00;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Fill the database;2502,40;2502,40;2502,40;3002,88;80,00;80,00;96,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Final check program;1355,04;1355,04;1355,04;1355,04;48,00;48,00;48,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Installation;5303,04;5303,04;5303,04;7070,72;192,00;192,00;256,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Kick-off Meeting;6408,00;6408,00;6408,00;6408,00;206,00;206,00;206,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Live;500,00;500,00;500,00;500,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Negociation conditions DACS;2235,08;2235,08;2235,08;2235,08;60,00;60,00;60,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Negociation conditions final supplier transport system;3115,12;3115,12;3115,12;3115,12;72,00;72,00;72,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Training PC;3250,72;2500,48;2500,48;2500,48;24,00;16,00;16,00
+C2011-07;Patient Transport System;€;19;16/06/2011;Training staff;44101,12;44101,12;44101,12;44101,12;1520,00;1520,00;1520,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Creation code list;5476,16;5476,16;5476,16;10009,92;232,00;232,00;432,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Decision supplier;6334,08;6334,08;6334,08;6834,56;152,00;152,00;168,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Draw up & Sign contract with supplier DACS;18493,52;18493,52;18493,52;18493,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Draw up & Sign contract with supplier transport system;55373,52;55373,52;55373,52;55373,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Evaluation;9440,12;9440,12;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Fill the database;2502,40;2502,40;2502,40;3002,88;80,00;80,00;96,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Final check program;1355,04;1355,04;1355,04;1355,04;48,00;48,00;48,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Installation;5303,04;5303,04;5303,04;7070,72;192,00;192,00;256,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Kick-off Meeting;6408,00;6408,00;6408,00;6408,00;206,00;206,00;206,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Live;500,00;500,00;500,00;500,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Negociation conditions DACS;2235,08;2235,08;2235,08;2235,08;60,00;60,00;60,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Negociation conditions final supplier transport system;3115,12;3115,12;3115,12;3115,12;72,00;72,00;72,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Training PC;3250,72;3250,72;2500,48;2500,48;24,00;16,00;16,00
+C2011-07;Patient Transport System;€;20;14/07/2011;Training staff;44101,12;44101,12;44101,12;44101,12;1520,00;1520,00;1520,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Creation code list;5476,16;5476,16;5476,16;10009,92;232,00;232,00;432,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Decision supplier;6334,08;6334,08;6334,08;6834,56;152,00;152,00;168,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Draw up & Sign contract with supplier DACS;18493,52;18493,52;18493,52;18493,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Draw up & Sign contract with supplier transport system;55373,52;55373,52;55373,52;55373,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Evaluation;9440,12;9440,12;0,00;0,00;288,00;0,00;0,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Fill the database;2502,40;2502,40;2502,40;3002,88;80,00;80,00;96,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Final check program;1355,04;1355,04;1355,04;1355,04;48,00;48,00;48,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Installation;5303,04;5303,04;5303,04;7070,72;192,00;192,00;256,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Kick-off Meeting;6408,00;6408,00;6408,00;6408,00;206,00;206,00;206,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Live;500,00;500,00;500,00;500,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Negociation conditions DACS;2235,08;2235,08;2235,08;2235,08;60,00;60,00;60,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Negociation conditions final supplier transport system;3115,12;3115,12;3115,12;3115,12;72,00;72,00;72,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Training PC;3250,72;3250,72;2500,48;2500,48;24,00;16,00;16,00
+C2011-07;Patient Transport System;€;21;11/08/2011;Training staff;44101,12;44101,12;44101,12;44101,12;1520,00;1520,00;1520,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Creation code list;5476,16;5476,16;5476,16;10009,92;232,00;232,00;432,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Decision supplier;6334,08;6334,08;6334,08;6834,56;152,00;152,00;168,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Draw up & Sign contract with supplier DACS;18493,52;18493,52;18493,52;18493,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Draw up & Sign contract with supplier transport system;55373,52;55373,52;55373,52;55373,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Evaluation;9440,12;9440,12;931,96;2329,90;288,00;16,00;40,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Fill the database;2502,40;2502,40;2502,40;3002,88;80,00;80,00;96,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Final check program;1355,04;1355,04;1355,04;1355,04;48,00;48,00;48,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Installation;5303,04;5303,04;5303,04;7070,72;192,00;192,00;256,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Kick-off Meeting;6408,00;6408,00;6408,00;6408,00;206,00;206,00;206,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Live;500,00;500,00;500,00;500,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Negociation conditions DACS;2235,08;2235,08;2235,08;2235,08;60,00;60,00;60,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Negociation conditions final supplier transport system;3115,12;3115,12;3115,12;3115,12;72,00;72,00;72,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Training PC;3250,72;3250,72;3250,72;3250,72;24,00;24,00;24,00
+C2011-07;Patient Transport System;€;22;08/09/2011;Training staff;44101,12;44101,12;44101,12;44101,12;1520,00;1520,00;1520,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Creation code list;5476,16;5476,16;5476,16;10009,92;232,00;232,00;432,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Decision supplier;6334,08;6334,08;6334,08;6834,56;152,00;152,00;168,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Description of staff's needs & Set-up;5512,64;5512,64;5512,64;5512,64;190,00;190,00;190,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Draw up & Sign contract with supplier DACS;18493,52;18493,52;18493,52;18493,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Draw up & Sign contract with supplier transport system;55373,52;55373,52;55373,52;55373,52;8,00;8,00;8,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Evaluation;9440,12;9440,12;9440,12;11721,90;288,00;288,00;312,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Fill the database;2502,40;2502,40;2502,40;3002,88;80,00;80,00;96,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Final check program;1355,04;1355,04;1355,04;1355,04;48,00;48,00;48,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Installation;5303,04;5303,04;5303,04;7070,72;192,00;192,00;256,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Kick-off Meeting;6408,00;6408,00;6408,00;6408,00;206,00;206,00;206,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Live;500,00;500,00;500,00;500,00;0,00;0,00;0,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Meeting ICT Committee;2478,88;2478,88;2478,88;2478,88;54,00;54,00;54,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Negociation conditions DACS;2235,08;2235,08;2235,08;2235,08;60,00;60,00;60,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Negociation conditions final supplier transport system;3115,12;3115,12;3115,12;3115,12;72,00;72,00;72,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Request proposal supplier DACS;3460,80;3460,80;3460,80;3460,80;120,00;120,00;120,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Request proposal suppliers transport system;3225,60;3225,60;3225,60;3225,60;76,00;76,00;76,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Set-up format specifications;2193,60;2193,60;2193,60;2915,04;72,00;72,00;96,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Training PC;3250,72;3250,72;3250,72;3250,72;24,00;24,00;24,00
+C2011-07;Patient Transport System;€;23;15/09/2011;Training staff;44101,12;44101,12;44101,12;44101,12;1520,00;1520,00;1520,00

@@ -1,0 +1,33 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2015-22;Risk Profile Questionnaire;€;1;27/01/2014;analysis;525,00;0,00;0,00;0,00;7,00;0,00;0,00
+C2015-22;Risk Profile Questionnaire;€;1;27/01/2014;design;2700,00;0,00;216,00;225,00;36,00;2,88;3,00
+C2015-22;Risk Profile Questionnaire;€;1;27/01/2014;development;3375,00;0,00;0,00;0,00;45,00;0,00;0,00
+C2015-22;Risk Profile Questionnaire;€;1;27/01/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-22;Risk Profile Questionnaire;€;1;27/01/2014;post implementation;2250,00;0,00;0,00;0,00;30,00;0,00;0,00
+C2015-22;Risk Profile Questionnaire;€;1;27/01/2014;supporting tasks;8355,00;8355,00;888,00;825,00;101,00;11,84;11,00
+C2015-22;Risk Profile Questionnaire;€;1;27/01/2014;test ict;6225,00;0,00;0,00;0,00;83,00;0,00;0,00
+C2015-22;Risk Profile Questionnaire;€;1;27/01/2014;uat;6450,00;0,00;0,00;0,00;86,00;0,00;0,00
+C2015-22;Risk Profile Questionnaire;€;2;03/03/2014;analysis;525,00;525,00;525,00;525,00;7,00;7,00;7,00
+C2015-22;Risk Profile Questionnaire;€;2;03/03/2014;design;2700,00;2700,00;2700,00;2700,00;36,00;36,00;36,00
+C2015-22;Risk Profile Questionnaire;€;2;03/03/2014;development;3375,00;0,00;1125,00;150,00;45,00;15,00;2,00
+C2015-22;Risk Profile Questionnaire;€;2;03/03/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-22;Risk Profile Questionnaire;€;2;03/03/2014;post implementation;2250,00;0,00;0,00;0,00;30,00;0,00;0,00
+C2015-22;Risk Profile Questionnaire;€;2;03/03/2014;supporting tasks;8355,00;8355,00;2623,20;2130,00;101,00;33,52;28,00
+C2015-22;Risk Profile Questionnaire;€;2;03/03/2014;test ict;6225,00;3825,00;1946,25;2100,00;83,00;25,95;28,00
+C2015-22;Risk Profile Questionnaire;€;2;03/03/2014;uat;6450,00;0,00;0,00;0,00;86,00;0,00;0,00
+C2015-22;Risk Profile Questionnaire;€;3;07/04/2014;analysis;525,00;525,00;525,00;525,00;7,00;7,00;7,00
+C2015-22;Risk Profile Questionnaire;€;3;07/04/2014;design;2700,00;2700,00;2700,00;2700,00;36,00;36,00;36,00
+C2015-22;Risk Profile Questionnaire;€;3;07/04/2014;development;3375,00;3375,00;1725,00;825,00;45,00;23,00;11,00
+C2015-22;Risk Profile Questionnaire;€;3;07/04/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-22;Risk Profile Questionnaire;€;3;07/04/2014;post implementation;2250,00;0,00;0,00;0,00;30,00;0,00;0,00
+C2015-22;Risk Profile Questionnaire;€;3;07/04/2014;supporting tasks;8355,00;8355,00;6801,86;4800,00;101,00;83,26;61,00
+C2015-22;Risk Profile Questionnaire;€;3;07/04/2014;test ict;6225,00;6225,00;4962,50;5550,00;83,00;66,17;74,00
+C2015-22;Risk Profile Questionnaire;€;3;07/04/2014;uat;6450,00;5550,00;750,00;75,00;86,00;10,00;1,00
+C2015-22;Risk Profile Questionnaire;€;4;13/05/2014;analysis;525,00;525,00;525,00;525,00;7,00;7,00;7,00
+C2015-22;Risk Profile Questionnaire;€;4;13/05/2014;design;2700,00;2700,00;2700,00;2700,00;36,00;36,00;36,00
+C2015-22;Risk Profile Questionnaire;€;4;13/05/2014;development;3375,00;3375,00;3375,00;975,00;45,00;45,00;13,00
+C2015-22;Risk Profile Questionnaire;€;4;13/05/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-22;Risk Profile Questionnaire;€;4;13/05/2014;post implementation;2250,00;1800,00;2250,00;2250,00;30,00;30,00;30,00
+C2015-22;Risk Profile Questionnaire;€;4;13/05/2014;supporting tasks;8355,00;8355,00;8355,00;5025,00;101,00;101,00;64,00
+C2015-22;Risk Profile Questionnaire;€;4;13/05/2014;test ict;6225,00;6225,00;6225,00;5700,00;83,00;83,00;76,00
+C2015-22;Risk Profile Questionnaire;€;4;13/05/2014;uat;6450,00;6450,00;6450,00;225,00;86,00;86,00;3,00

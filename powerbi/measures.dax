@@ -1,0 +1,117 @@
+// =====================================================================================
+// Model Power BI: kinerja biaya & jadwal proyek
+// Tabel : Proyek (data/processed/proyek.csv), Periode (data/processed/periode_proyek.csv),
+//         Laporan_Status (folder data/status_reports, query sama dengan Excel),
+//         Kelas_Referensi dan Peringatan_Dini (data/summary/*.csv)
+// Relasi: Proyek[kode_proyek] 1 - * Periode[kode_proyek]
+//         Proyek[kode_proyek] 1 - * Laporan_Status[Kode Proyek]
+// =====================================================================================
+
+// ---------- Kolom hitung di tabel Proyek ----------
+Rasio Biaya =
+IF ( Proyek[masuk_analisis] = "Ya", DIVIDE ( Proyek[ac_akhir], Proyek[bac] ) )
+
+Rasio Durasi =
+IF ( Proyek[masuk_analisis] = "Ya", DIVIDE ( Proyek[durasi_aktual_hari], Proyek[durasi_rencana_hari] ) )
+
+Jenis Pekerjaan =
+SWITCH (
+    Proyek[sektor],
+    "Konstruksi - Perumahan", "Perumahan",
+    "Konstruksi - Sipil", "Sipil & infrastruktur",
+    "Konstruksi - Gedung Komersial", "Gedung komersial & institusi",
+    "Konstruksi - Gedung Institusi", "Gedung komersial & institusi",
+    "Konstruksi - Industri", "Industri & engineering",
+    "Engineering", "Industri & engineering",
+    "-"
+)
+
+Kelas Ukuran =
+SWITCH (
+    TRUE (),
+    Proyek[bac] < 250000, "Kecil (< 250 rb)",
+    Proyek[bac] < 1000000, "Menengah (250 rb - 1 jt)",
+    "Besar (> 1 jt)"
+)
+
+Status Biaya =
+SWITCH (
+    TRUE (),
+    ISBLANK ( Proyek[Rasio Biaya] ), BLANK (),
+    Proyek[Rasio Biaya] > 1.005, "Di atas anggaran",
+    Proyek[Rasio Biaya] < 0.995, "Di bawah anggaran",
+    "Sesuai anggaran"
+)
+
+// ---------- Ukuran portofolio (halaman 1) ----------
+Proyek Dianalisis =
+CALCULATE ( COUNTROWS ( Proyek ), Proyek[masuk_analisis] = "Ya" )
+
+% Di Atas Anggaran =
+DIVIDE ( CALCULATE ( COUNTROWS ( Proyek ), Proyek[Status Biaya] = "Di atas anggaran" ), [Proyek Dianalisis] )
+
+% Terlambat =
+DIVIDE ( CALCULATE ( COUNTROWS ( Proyek ), Proyek[Rasio Durasi] > 1.005 ), [Proyek Dianalisis] )
+
+Median Rasio Biaya =
+MEDIANX ( FILTER ( Proyek, NOT ISBLANK ( Proyek[Rasio Biaya] ) ), Proyek[Rasio Biaya] )
+
+P80 Rasio Biaya =
+PERCENTILEX.INC ( FILTER ( Proyek, NOT ISBLANK ( Proyek[Rasio Biaya] ) ), Proyek[Rasio Biaya], 0.8 )
+
+Rata-rata Rasio Durasi =
+AVERAGEX ( FILTER ( Proyek, NOT ISBLANK ( Proyek[Rasio Durasi] ) ), Proyek[Rasio Durasi] )
+
+// ---------- Ukuran per proyek per periode (halaman 2, pilih satu proyek) ----------
+PV = SUM ( Periode[pv] )
+EV = SUM ( Periode[ev] )
+AC = SUM ( Periode[ac] )
+
+BAC Proyek = SUM ( Proyek[bac] )
+
+Progres Rencana = DIVIDE ( [PV], [BAC Proyek] )
+Progres Aktual  = DIVIDE ( [EV], [BAC Proyek] )
+
+CPI = DIVIDE ( [EV], [AC] )
+SPI = DIVIDE ( [EV], [PV] )
+
+EAC (BAC/CPI) = DIVIDE ( [BAC Proyek], [CPI] )
+
+Periode Terakhir = MAX ( Periode[periode] )
+
+CPI Terakhir =
+VAR p = [Periode Terakhir]
+RETURN CALCULATE ( [CPI], Periode[periode] = p )
+
+SPI Terakhir =
+VAR p = [Periode Terakhir]
+RETURN CALCULATE ( [SPI], Periode[periode] = p )
+
+Batas CPI = 0.95
+
+Status Proyek =
+SWITCH (
+    TRUE (),
+    [CPI Terakhir] < [Batas CPI], "Biaya di atas rencana",
+    [SPI Terakhir] < [Batas CPI], "Jadwal tertinggal",
+    "Sesuai rencana"
+)
+
+// ---------- Kalkulator tender (halaman 3) ----------
+// Buat parameter what-if "Estimasi Biaya" (Modeling > New parameter, 0 - 50.000.000)
+// dan tabel terpisah Tingkat = DATATABLE("Tingkat", STRING, {{"P50"}, {"P80"}, {"P90"}}).
+Faktor Biaya =
+VAR lv = SELECTEDVALUE ( Tingkat[Tingkat], "P80" )
+RETURN
+    SWITCH (
+        lv,
+        "P50", MAX ( Kelas_Referensi[P50] ),
+        "P80", MAX ( Kelas_Referensi[P80] ),
+        "P90", MAX ( Kelas_Referensi[P90] )
+    )
+
+Kontinjensi =
+[Estimasi Biaya Value] * MAX ( 0, [Faktor Biaya] - 1 )
+
+Biaya + Kontinjensi =
+[Estimasi Biaya Value] + [Kontinjensi]

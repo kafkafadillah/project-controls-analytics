@@ -1,0 +1,19 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2023-13;Train Three;€;1;15/04/2018;"Fase Fabricage &amp; FAT";625599,30;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-13;Train Three;€;1;15/04/2018;Fase Installatie en SAT;156140,46;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-13;Train Three;€;1;15/04/2018;Go;345998,95;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-13;Train Three;€;1;15/04/2018;Monitoringsfase;146284,41;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-13;Train Three;€;1;15/04/2018;Offerte en contract fase;121903,68;0,00;77810,86;20,00;0,00;0,00;0,00
+C2023-13;Train Three;€;1;15/04/2018;Systeemacceptatie;85073,20;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-13;Train Three;€;2;01/01/2019;"Fase Fabricage &amp; FAT";625599,30;452340,46;117235,03;117235,03;0,00;0,00;0,00
+C2023-13;Train Three;€;2;01/01/2019;Fase Installatie en SAT;156140,46;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-13;Train Three;€;2;01/01/2019;Go;345998,95;335105,43;158215,41;158215,41;0,00;0,00;0,00
+C2023-13;Train Three;€;2;01/01/2019;Monitoringsfase;146284,41;0,00;0,00;0,00;0,00;0,00;0,00
+C2023-13;Train Three;€;2;01/01/2019;Offerte en contract fase;121903,68;121903,68;121903,68;121903,68;0,00;0,00;0,00
+C2023-13;Train Three;€;2;01/01/2019;Systeemacceptatie;85073,20;48761,47;45130,30;45130,30;0,00;0,00;0,00
+C2023-13;Train Three;€;3;22/02/2020;"Fase Fabricage &amp; FAT";625599,30;625599,30;212683,01;212683,01;0,00;0,00;0,00
+C2023-13;Train Three;€;3;22/02/2020;Fase Installatie en SAT;156140,46;156140,46;43055,34;43055,34;0,00;0,00;0,00
+C2023-13;Train Three;€;3;22/02/2020;Go;345998,95;345998,95;345998,95;345998,95;0,00;0,00;0,00
+C2023-13;Train Three;€;3;22/02/2020;Monitoringsfase;146284,41;98560,42;0,00;0,00;0,00;0,00;0,00
+C2023-13;Train Three;€;3;22/02/2020;Offerte en contract fase;121903,68;121903,68;121903,68;121903,68;0,00;0,00;0,00
+C2023-13;Train Three;€;3;22/02/2020;Systeemacceptatie;85073,20;85073,20;48761,47;48761,47;0,00;0,00;0,00

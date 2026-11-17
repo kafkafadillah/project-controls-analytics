@@ -1,0 +1,13 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2015-21;Investment Product (1);€;1;24/03/2014;analysis;300,00;300,00;300,00;300,00;4,00;4,00;4,00
+C2015-21;Investment Product (1);€;1;24/03/2014;design;900,00;900,00;600,00;675,00;12,00;8,00;9,00
+C2015-21;Investment Product (1);€;1;24/03/2014;development;900,00;900,00;900,00;300,00;12,00;12,00;4,00
+C2015-21;Investment Product (1);€;1;24/03/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-21;Investment Product (1);€;1;24/03/2014;supporting tasks;1020,00;720,00;600,60;435,00;12,00;6,84;5,00
+C2015-21;Investment Product (1);€;1;24/03/2014;test ICT;900,00;300,00;900,00;1050,00;12,00;12,00;14,00
+C2015-21;Investment Product (1);€;2;07/05/2014;analysis;300,00;300,00;300,00;300,00;4,00;4,00;4,00
+C2015-21;Investment Product (1);€;2;07/05/2014;design;900,00;900,00;900,00;750,00;12,00;12,00;10,00
+C2015-21;Investment Product (1);€;2;07/05/2014;development;900,00;900,00;900,00;300,00;12,00;12,00;4,00
+C2015-21;Investment Product (1);€;2;07/05/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-21;Investment Product (1);€;2;07/05/2014;supporting tasks;1020,00;1020,00;1020,00;840,00;12,00;12,00;10,00
+C2015-21;Investment Product (1);€;2;07/05/2014;test ICT;900,00;900,00;900,00;1050,00;12,00;12,00;14,00

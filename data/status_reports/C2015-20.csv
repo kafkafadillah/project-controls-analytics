@@ -1,0 +1,21 @@
+﻿Kode Proyek;Nama Proyek;Mata Uang;Periode;Tanggal Status;Paket Pekerjaan;Anggaran Paket;Nilai Rencana (PV);Nilai Hasil (EV);Biaya Aktual (AC);Jam Kerja Rencana;Jam Kerja Earned;Jam Kerja Aktual
+C2015-20;Policy Numbering System;€;1;14/10/2013;analysis;1050,00;1050,00;1050,00;75,00;14,00;14,00;1,00
+C2015-20;Policy Numbering System;€;1;14/10/2013;design;3075,00;3075,00;3075,00;2325,00;41,00;41,00;31,00
+C2015-20;Policy Numbering System;€;1;14/10/2013;development;7800,00;7800,00;6937,50;6975,00;104,00;92,50;93,00
+C2015-20;Policy Numbering System;€;1;14/10/2013;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-20;Policy Numbering System;€;1;14/10/2013;supporting tasks;720,00;720,00;216,00;270,00;8,00;2,40;3,00
+C2015-20;Policy Numbering System;€;2;06/01/2014;analysis;1050,00;1050,00;1050,00;75,00;14,00;14,00;1,00
+C2015-20;Policy Numbering System;€;2;06/01/2014;design;3075,00;3075,00;3075,00;2325,00;41,00;41,00;31,00
+C2015-20;Policy Numbering System;€;2;06/01/2014;development;7800,00;7800,00;7275,00;7275,00;104,00;97,00;97,00
+C2015-20;Policy Numbering System;€;2;06/01/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-20;Policy Numbering System;€;2;06/01/2014;supporting tasks;720,00;720,00;417,60;540,00;8,00;4,64;6,00
+C2015-20;Policy Numbering System;€;3;24/02/2014;analysis;1050,00;1050,00;1050,00;75,00;14,00;14,00;1,00
+C2015-20;Policy Numbering System;€;3;24/02/2014;design;3075,00;3075,00;3075,00;2325,00;41,00;41,00;31,00
+C2015-20;Policy Numbering System;€;3;24/02/2014;development;7800,00;7800,00;7800,00;7800,00;104,00;104,00;104,00
+C2015-20;Policy Numbering System;€;3;24/02/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-20;Policy Numbering System;€;3;24/02/2014;supporting tasks;720,00;720,00;648,00;810,00;8,00;7,20;9,00
+C2015-20;Policy Numbering System;€;4;21/04/2014;analysis;1050,00;1050,00;1050,00;75,00;14,00;14,00;1,00
+C2015-20;Policy Numbering System;€;4;21/04/2014;design;3075,00;3075,00;3075,00;2325,00;41,00;41,00;31,00
+C2015-20;Policy Numbering System;€;4;21/04/2014;development;7800,00;7800,00;7800,00;7800,00;104,00;104,00;104,00
+C2015-20;Policy Numbering System;€;4;21/04/2014;implementation;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+C2015-20;Policy Numbering System;€;4;21/04/2014;supporting tasks;720,00;720,00;720,00;900,00;8,00;8,00;10,00
